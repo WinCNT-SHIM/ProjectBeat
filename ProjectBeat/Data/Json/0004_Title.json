@@ -1,0 +1,17 @@
+{
+  "MetaFilePath": "Data/Json/0004_Title.json",
+  "ImageFilePath": "Data/Image/0004_Title.png",
+  "SheetName": "0004_Title",
+  "SpriteSheet": {
+    "0004_Title": {
+      "CenterPosX": 960,
+      "CenterPosY": 540,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 0,
+      "OriY": 0,
+      "SpriteName": "0004_Title",
+      "Width": 1920
+    }
+  }
+}

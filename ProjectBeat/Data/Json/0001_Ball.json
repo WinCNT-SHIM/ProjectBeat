@@ -1,0 +1,48 @@
+{
+
+  "ImageFilePath": "Data/Image/0001_Ball.png",
+  "MetaFilePath": "Data/Json/0001_Ball.json",
+  "SheetName": "0001_Ball",
+  "SpriteSheet": {
+    "1": {
+      "CenterPosX": 960,
+      "CenterPosY": 540,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 0,
+      "OriY": 0,
+      "SpriteName": "1",
+      "Width": 1920
+    },
+    "2": {
+      "CenterPosX": 2880,
+      "CenterPosY": 540,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 1920,
+      "OriY": 0,
+      "SpriteName": "2",
+      "Width": 1920
+    },
+    "3": {
+      "CenterPosX": 960,
+      "CenterPosY": 1620,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 0,
+      "OriY": 1080,
+      "SpriteName": "3",
+      "Width": 1920
+    },
+    "4": {
+      "CenterPosX": 2880,
+      "CenterPosY": 1620,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 1920,
+      "OriY": 1080,
+      "SpriteName": "4",
+      "Width": 1920
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ImageFilePath": "Data\\Image\\0016_Filter.png",
+  "MetaFilePath": "Data\\Json\\0016_Filter.json",
+  "SheetName": "0016_Filter",
+  "SpriteSheet": {
+    "FILTER": {
+      "CenterPosX": 960,
+      "CenterPosY": 540,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 0,
+      "OriY": 0,
+      "SpriteName": "FILTER",
+      "Width": 1920
+    }
+  }
+}

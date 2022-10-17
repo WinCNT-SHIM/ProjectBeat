@@ -1,0 +1,148 @@
+{
+
+  "ImageFilePath": "Data/Image/0023_InGameSceneUI.png",
+  "MetaFilePath": "Data/Json/0023_InGameSceneUI.json",
+  "SheetName": "0023_InGameSceneUI",
+  "SpriteSheet": {
+    "FIRST": {
+      "CenterPosX": 356,
+      "CenterPosY": 412,
+      "Height": 188,
+      "KeyColor": 0,
+      "OriX": 163,
+      "OriY": 318,
+      "SpriteName": "FIRST",
+      "Width": 386
+    },
+    "FOURTH": {
+      "CenterPosX": 842,
+      "CenterPosY": 672,
+      "Height": 186,
+      "KeyColor": 0,
+      "OriX": 650,
+      "OriY": 579,
+      "SpriteName": "FOURTH",
+      "Width": 385
+    },
+    "KO": {
+      "CenterPosX": 1417,
+      "CenterPosY": 1339,
+      "Height": 592,
+      "KeyColor": 0,
+      "OriX": 1118,
+      "OriY": 1043,
+      "SpriteName": "KO",
+      "Width": 599
+    },
+    "LAST": {
+      "CenterPosX": 359,
+      "CenterPosY": 968,
+      "Height": 186,
+      "KeyColor": 0,
+      "OriX": 167,
+      "OriY": 875,
+      "SpriteName": "LAST",
+      "Width": 384
+    },
+    "METRO1": {
+      "CenterPosX": 331,
+      "CenterPosY": 3011,
+      "Height": 449,
+      "KeyColor": 0,
+      "OriX": 143,
+      "OriY": 2765,
+      "SpriteName": "METRO1",
+      "Width": 360
+    },
+    "METRO2": {
+      "CenterPosX": 778,
+      "CenterPosY": 3009,
+      "Height": 465,
+      "KeyColor": 0,
+      "OriX": 606,
+      "OriY": 2749,
+      "SpriteName": "METRO2",
+      "Width": 347
+    },
+    "METRO3": {
+      "CenterPosX": 1238,
+      "CenterPosY": 3010,
+      "Height": 449,
+      "KeyColor": 0,
+      "OriX": 1069,
+      "OriY": 2767,
+      "SpriteName": "METRO3",
+      "Width": 359
+    },
+    "METRO4": {
+      "CenterPosX": 1668,
+      "CenterPosY": 3009,
+      "Height": 467,
+      "KeyColor": 0,
+      "OriX": 1496,
+      "OriY": 2750,
+      "SpriteName": "METRO4",
+      "Width": 343
+    },
+    "P1OUTRO": {
+      "CenterPosX": 523,
+      "CenterPosY": 2167,
+      "Height": 428,
+      "KeyColor": 0,
+      "OriX": 229,
+      "OriY": 1953,
+      "SpriteName": "P1OUTRO",
+      "Width": 588
+    },
+    "P2OUTRO": {
+      "CenterPosX": 1287,
+      "CenterPosY": 2157,
+      "Height": 424,
+      "KeyColor": 0,
+      "OriX": 992,
+      "OriY": 1945,
+      "SpriteName": "P2OUTRO",
+      "Width": 590
+    },
+    "PAUSE": {
+      "CenterPosX": 1488,
+      "CenterPosY": 304,
+      "Height": 86,
+      "KeyColor": 0,
+      "OriX": 1344,
+      "OriY": 261,
+      "SpriteName": "PAUSE",
+      "Width": 289
+    },
+    "SECOND": {
+      "CenterPosX": 843,
+      "CenterPosY": 402,
+      "Height": 185,
+      "KeyColor": 0,
+      "OriX": 651,
+      "OriY": 310,
+      "SpriteName": "SECOND",
+      "Width": 384
+    },
+    "START": {
+      "CenterPosX": 506,
+      "CenterPosY": 1404,
+      "Height": 452,
+      "KeyColor": 0,
+      "OriX": 149,
+      "OriY": 1178,
+      "SpriteName": "START",
+      "Width": 714
+    },
+    "THIRD": {
+      "CenterPosX": 360,
+      "CenterPosY": 687,
+      "Height": 184,
+      "KeyColor": 0,
+      "OriX": 168,
+      "OriY": 595,
+      "SpriteName": "THIRD",
+      "Width": 384
+    }
+  }
+}

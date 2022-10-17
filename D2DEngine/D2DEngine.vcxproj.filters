@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Graphic">
+      <UniqueIdentifier>{c2d6797c-a6b5-4f19-b117-6bc05f85932d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Graphic\Macro">
+      <UniqueIdentifier>{b8cb60a9-afdf-4c10-b97b-8759d5aff4e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="etc">
+      <UniqueIdentifier>{a916acfd-eee6-41a0-af80-7f8c0d08504e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D2DEngine.cpp">
+      <Filter>Graphic</Filter>
+    </ClCompile>
+    <ClCompile Include="etc.cpp" />
+    <ClCompile Include="EngineCamera.cpp">
+      <Filter>Graphic</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D2DEngine.h">
+      <Filter>Graphic</Filter>
+    </ClInclude>
+    <ClInclude Include="D2DEngineMacro.h">
+      <Filter>Graphic\Macro</Filter>
+    </ClInclude>
+    <ClInclude Include="etc.h" />
+    <ClInclude Include="EngineCamera.h">
+      <Filter>Graphic</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,332 @@
+[
+    {
+        "Name": "Ef_Press",
+        "FilePath": "Data\\Sound\\press_start.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Beep",
+        "FilePath": "Data\\Sound\\beep.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Swoop",
+        "FilePath": "Data\\Sound\\swoop.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Chose",
+        "FilePath": "Data\\Sound\\chose_char.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Decide",
+        "FilePath": "Data\\Sound\\decide_char.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Get",
+        "FilePath": "Data\\Sound\\get_ready.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Pause",
+        "FilePath": "Data\\Sound\\pause.mp3",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Resume",
+        "FilePath": "Data\\Sound\\resume.mp3",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Spe_Syn",
+        "FilePath": "Data\\Sound\\syn_spe.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Spe_Tam",
+        "FilePath": "Data\\Sound\\tam_spe.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Spe_Drum",
+        "FilePath": "Data\\Sound\\drum_spe.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Spe_Elec",
+        "FilePath": "Data\\Sound\\elec_spe.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Win_Syn",
+        "FilePath": "Data\\Sound\\synth_won.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Win_Drum",
+        "FilePath": "Data\\Sound\\drum_won.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Win_Tam",
+        "FilePath": "Data\\Sound\\tam_won.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Win_Elec",
+        "FilePath": "Data\\Sound\\elec_won.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Next",
+        "FilePath": "Data\\Sound\\to_next_round.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Fin",
+        "FilePath": "Data\\Sound\\finish_round.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Trun",
+        "FilePath": "Data\\Sound\\script_turn.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_Foot",
+        "FilePath": "Data\\Sound\\footsteps.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "BGM_Epil",
+        "FilePath": "Data\\Sound\\story_at_first.wav",
+        "Mode": 0
+    },
+    {
+        "Name": "BGM_Title",
+        "FilePath": "Data\\Sound\\title.mp3",
+        "Mode": 0
+    },
+    {
+        "Name": "BGM_Select",
+        "FilePath": "Data\\Sound\\pick_char.mp3",
+        "Mode": 1
+    },
+    {
+      "Name": "BGM_Battle1",
+      "FilePath": "Data\\Sound\\bgm1real.wav",
+      "Mode": 0
+    },
+    {
+        "Name": "BGM_Ending",
+        "FilePath": "Data\\Sound\\ending_music.mp3",
+        "Mode": 0
+    },
+    {
+        "Name": "Spe_Syn_P",
+        "FilePath": "Data\\Sound\\SynthHit1.mp3",
+        "Mode": 1
+    },
+    {
+        "Name": "Spe_Syn_K",
+        "FilePath": "Data\\Sound\\SynthHit2.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Spe_Tam_P",
+        "FilePath": "Data\\Sound\\TamHit1.mp3",
+        "Mode": 1
+    },
+    {
+        "Name": "Spe_Tam_K",
+        "FilePath": "Data\\Sound\\TamHit2.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Spe_Drum_P",
+        "FilePath": "Data\\Sound\\DrumHit1.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Spe_Drum_K",
+        "FilePath": "Data\\Sound\\DrumHit2.mp3",
+        "Mode": 1
+    },
+    {
+        "Name": "Spe_Ele_P",
+        "FilePath": "Data\\Sound\\ElectricGuitarHit1.mp3",
+        "Mode": 1
+    },
+    {
+        "Name": "Spe_Ele_K",
+        "FilePath": "Data\\Sound\\ElectricGuitarHit2.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Spe_Swit",
+        "FilePath": "Data\\Sound\\switchside.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_In_Syn",
+        "FilePath": "Data\\Sound\\voice_info_syn.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_In_Drum",
+        "FilePath": "Data\\Sound\\voice_info_drum.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_In_Elec",
+        "FilePath": "Data\\Sound\\voice_info_elec.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_In_Tam",
+        "FilePath": "Data\\Sound\\voice_info_tam.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_St_Syn",
+        "FilePath": "Data\\Sound\\voice_startfight_syn.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_St_Drum",
+        "FilePath": "Data\\Sound\\voice_startfight_drum.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_St_Elec",
+        "FilePath": "Data\\Sound\\voice_startfight_elec.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_St_Tam",
+        "FilePath": "Data\\Sound\\voice_startfight_tam.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_Si_Syn",
+        "FilePath": "Data\\Sound\\voice_sign_syn.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_Si_Drum",
+        "FilePath": "Data\\Sound\\voice_sign_drum.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_Si_Elec",
+        "FilePath": "Data\\Sound\\voice_sign_elec.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_Si_Tam",
+        "FilePath": "Data\\Sound\\voice_sign_tam.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_On_Syn",
+        "FilePath": "Data\\Sound\\voice_one_third_syn.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_On_Drum",
+        "FilePath": "Data\\Sound\\voice_one_third_drum.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_On_Elec",
+        "FilePath": "Data\\Sound\\voice_one_third_elec.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_On_Tam",
+        "FilePath": "Data\\Sound\\voice_one_third_tam.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_Win_Syn",
+        "FilePath": "Data\\Sound\\voice_win_syn.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_Win_Drum",
+        "FilePath": "Data\\Sound\\voice_win_drum.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Vo_Win_Elec",
+        "FilePath": "Data\\Sound\\voice_win_elec.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Sh_Fi",
+        "FilePath": "Data\\Sound\\shout_firstmo.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Sh_Se",
+        "FilePath": "Data\\Sound\\shout_secondmo.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Sh_Th",
+        "FilePath": "Data\\Sound\\shout_thirdmo.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Sh_Fo",
+        "FilePath": "Data\\Sound\\shout_fourthmo.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Sh_La",
+        "FilePath": "Data\\Sound\\shout_lastmo.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Sh_Ac",
+        "FilePath": "Data\\Sound\\shout_acce.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Sh_Ra",
+        "FilePath": "Data\\Sound\\shout_ralen.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Sh_Lu",
+        "FilePath": "Data\\Sound\\shout_luva.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Sh_St",
+        "FilePath": "Data\\Sound\\shout_start.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Sh_Ko",
+        "FilePath": "Data\\Sound\\shout_ko.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Sh_On",
+        "FilePath": "Data\\Sound\\shout_onewin.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Sh_Tw",
+        "FilePath": "Data\\Sound\\shout_twowin.wav",
+        "Mode": 1
+    },
+    {
+        "Name": "Ef_En",
+        "FilePath": "Data\\Sound\\endbeep.wav",
+        "Mode": 1
+    }
+]

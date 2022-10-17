@@ -1,0 +1,138 @@
+{
+
+  "ImageFilePath": "Data/Image/0032_UI_setting_Spritesheets.png",
+  "MetaFilePath": "Data/Json/0032_UI_setting_Spritesheets.json",
+  "SheetName": "0032_UI_setting_Spritesheets",
+  "SpriteSheet": {
+    "BG Sprite1": {
+      "CenterPosX": 703,
+      "CenterPosY": 231,
+      "Height": 278,
+      "KeyColor": 0,
+      "OriX": 562,
+      "OriY": 92,
+      "SpriteName": "BG Sprite1",
+      "Width": 382
+    },
+    "Resume Sprite1": {
+      "CenterPosX": 226,
+      "CenterPosY": 5024,
+      "Height": 40,
+      "KeyColor": 0,
+      "OriX": 176,
+      "OriY": 504,
+      "SpriteName": "Resume Sprite1",
+      "Width": 100
+    },
+    "Resume Sprite2": {
+      "CenterPosX": 455,
+      "CenterPosY": 526,
+      "Height": 40,
+      "KeyColor": 0,
+      "OriX": 405,
+      "OriY": 506,
+      "SpriteName": "Resume Sprite2",
+      "Width": 100
+    },
+    "ReturnToLobby Sprite1": {
+      "CenterPosX": 115,
+      "CenterPosY": 522,
+      "Height": 40,
+      "KeyColor": 0,
+      "OriX": 65,
+      "OriY": 502,
+      "SpriteName": "ReturnToLobby Sprite1",
+      "Width": 100
+    },
+    "ReturnToLobby Sprite2": {
+      "CenterPosX": 344,
+      "CenterPosY": 524,
+      "Height": 40,
+      "KeyColor": 0,
+      "OriX": 294,
+      "OriY": 504,
+      "SpriteName": "ReturnToLobby Sprite2",
+      "Width": 100
+    },
+    "BGM Sprite1": {
+      "CenterPosX": 113,
+      "CenterPosY": 249,
+      "Height": 37,
+      "KeyColor": 0,
+      "OriX": 57,
+      "OriY": 230,
+      "SpriteName": "BGM Sprite1",
+      "Width": 111
+    },
+    "Effect Sprite1": {
+      "CenterPosX": 112,
+      "CenterPosY": 362,
+      "Height": 37,
+      "KeyColor": 0,
+      "OriX": 56,
+      "OriY": 343,
+      "SpriteName": "Effect Sprite1",
+      "Width": 112
+    },
+    "BGMBarBG Sprite1": {
+      "CenterPosX": 315,
+      "CenterPosY": 246,
+      "Height": 22,
+      "KeyColor": 0,
+      "OriX": 232,
+      "OriY": 235,
+      "SpriteName": "BGMBarBG Sprite1",
+      "Width": 167
+    },
+    "BGMBar Sprite1": {
+      "CenterPosX": 316,
+      "CenterPosY": 276,
+      "Height": 19,
+      "KeyColor": 0,
+      "OriX": 234,
+      "OriY": 266,
+      "SpriteName": "BGMBar Sprite1",
+      "Width": 163
+    },
+    "EffectBarBG Sprite1": {
+      "CenterPosX": 315,
+      "CenterPosY": 346,
+      "Height": 21,
+      "KeyColor": 0,
+      "OriX": 233,
+      "OriY": 336,
+      "SpriteName": "EffectBarBG Sprite1",
+      "Width": 164
+    },
+    "EffectBar Sprite1": {
+      "CenterPosX": 315,
+      "CenterPosY": 378,
+      "Height": 19,
+      "KeyColor": 0,
+      "OriX": 235,
+      "OriY": 368,
+      "SpriteName": "EffectBar Sprite1",
+      "Width": 160
+    },
+    "Icon Sprite1": {
+      "CenterPosX": 469,
+      "CenterPosY": 116,
+      "Height": 32,
+      "KeyColor": 0,
+      "OriX": 460,
+      "OriY": 97,
+      "SpriteName": "Icon Sprite1",
+      "Width": 21
+    },
+    "Icon Sprite2": {
+      "CenterPosX": 502,
+      "CenterPosY": 116,
+      "Height": 30,
+      "KeyColor": 0,
+      "OriX": 493,
+      "OriY": 98,
+      "SpriteName": "Icon Sprite2",
+      "Width": 19
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "MetaFilePath": "Data/Json/0003_BackGround.json",
+  "ImageFilePath": "Data/Image/0003_BackGround.png",
+  "SheetName": "0003_BackGround_Sheet",
+  "SpriteSheet": {
+    "BackGround_Sprite": {
+      "CenterPosX": 960,
+      "CenterPosY": 540,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 0,
+      "OriY": 0,
+      "SpriteName": "BackGround_Sprite",
+      "Width": 1920
+    }
+  }
+}

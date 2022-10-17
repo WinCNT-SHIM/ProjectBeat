@@ -1,0 +1,37 @@
+{
+  "MetaFilePath": "Data/Json/0022_EndingDrum.json",
+  "ImageFilePath": "Data/Image/0022_EndingDrum.png",
+  "SheetName": "0022_EndingDrum",
+  "SpriteSheet": {
+    "0022_EndingDrum1": {
+      "CenterPosX": 1150,
+      "CenterPosY": 950,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 190,
+      "OriY": 410,
+      "SpriteName": "0022_EndingDrum1",
+      "Width": 1920
+    },
+    "0022_EndingDrum2": {
+      "CenterPosX": 1150,
+      "CenterPosY": 2103,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 190,
+      "OriY": 1563,
+      "SpriteName": "0022_EndingDrum2",
+      "Width": 1920
+    },
+    "0022_EndingDrum3": {
+      "CenterPosX": 1150,
+      "CenterPosY": 3321,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 190,
+      "OriY": 2781,
+      "SpriteName": "0022_EndingDrum3",
+      "Width": 1920
+    }
+  }
+}

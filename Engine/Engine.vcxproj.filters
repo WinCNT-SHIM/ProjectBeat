@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Enigne">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Enigne\Component">
+      <UniqueIdentifier>{b2a453f1-868b-427a-94ca-9d32f86fd218}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{c345cde5-7fd5-4016-9033-77132de64984}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Transform">
+      <UniqueIdentifier>{c0c5b5b1-cdd1-4053-a727-3be9b04622c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Collider">
+      <UniqueIdentifier>{0599d849-c908-461d-bc38-91450aa0b7d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Physics">
+      <UniqueIdentifier>{9d4c85ce-5222-49b6-9fd8-916dfe9b29fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Time">
+      <UniqueIdentifier>{614e3c45-6626-485f-b86b-9445e5b986d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Collider\AABB">
+      <UniqueIdentifier>{9139bc76-1432-41cb-b929-b49d93f95cc7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Collider\CC">
+      <UniqueIdentifier>{e7458beb-6533-4114-bf76-e6100732f566}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Collider\OBB">
+      <UniqueIdentifier>{5beaa326-d919-404b-910e-8a79a9f54dec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Collider\LineCircle">
+      <UniqueIdentifier>{b5bc61a5-bcea-4618-981f-12e345fc2e17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Debug">
+      <UniqueIdentifier>{cc287756-dd74-42fd-be22-0642c2b288a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\Input">
+      <UniqueIdentifier>{a6a48903-ab1c-4496-b798-366c65055325}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Renderer">
+      <UniqueIdentifier>{1681a87a-abb8-48ee-b1f1-ec16fd9823b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Renderer\Base">
+      <UniqueIdentifier>{9293e78c-14a0-4b00-bd02-43c4cf9b14f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Renderer\Shape">
+      <UniqueIdentifier>{8e188520-202b-4fc8-84bd-7597074b0295}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Renderer\Sprite">
+      <UniqueIdentifier>{beb4503c-ac6d-4b03-8af6-f8e9411672d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Renderer\Shape\Circle">
+      <UniqueIdentifier>{e3850b09-56ff-45c4-96d3-6f12337db1e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Renderer\Shape\Line">
+      <UniqueIdentifier>{41aaf234-d291-4cc0-8a4f-4582c97966fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Renderer\Shape\Rect">
+      <UniqueIdentifier>{fce9cff3-3fe9-4e03-9c24-293af9fff9ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\SpriteAnimator">
+      <UniqueIdentifier>{290e9b6d-6eb1-432e-92f3-4b501459bde8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Camera">
+      <UniqueIdentifier>{44a325e2-08b5-4a54-9e6f-e0e0474bcfc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Object">
+      <UniqueIdentifier>{8ecc9c7a-100e-4a48-8bbc-a76a44ba5a37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Animator">
+      <UniqueIdentifier>{3a8611f2-acbe-4c0f-805e-c595d3e79e1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\Sound">
+      <UniqueIdentifier>{ca6069c5-c197-48db-8390-4ba3b4d0e492}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\Component\UI">
+      <UniqueIdentifier>{63eecf61-ca4f-4ae0-a42f-1f02764b2fdf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enigne\PCH">
+      <UniqueIdentifier>{530533b6-46eb-48f1-aa25-5981fe944ae6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Enigne\PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="CBase.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Enigne\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Transform.cpp">
+      <Filter>Enigne\Component\Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>Enigne\Component\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.cpp">
+      <Filter>Enigne\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics.cpp">
+      <Filter>Enigne\Component\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="CTime.cpp">
+      <Filter>Common\Time</Filter>
+    </ClCompile>
+    <ClCompile Include="AABBCollider.cpp">
+      <Filter>Enigne\Component\Collider\AABB</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleCollider.cpp">
+      <Filter>Enigne\Component\Collider\CC</Filter>
+    </ClCompile>
+    <ClCompile Include="OBBCollider.cpp">
+      <Filter>Enigne\Component\Collider\OBB</Filter>
+    </ClCompile>
+    <ClCompile Include="LineColider.cpp">
+      <Filter>Enigne\Component\Collider\LineCircle</Filter>
+    </ClCompile>
+    <ClCompile Include="DeBugPrint.cpp">
+      <Filter>Common\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerInput.cpp">
+      <Filter>Common\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Enigne\Component\Renderer\Base</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeRenderer.cpp">
+      <Filter>Enigne\Component\Renderer\Shape</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteRenderer.cpp">
+      <Filter>Enigne\Component\Renderer\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleRender.cpp">
+      <Filter>Enigne\Component\Renderer\Shape\Circle</Filter>
+    </ClCompile>
+    <ClCompile Include="LineRender.cpp">
+      <Filter>Enigne\Component\Renderer\Shape\Line</Filter>
+    </ClCompile>
+    <ClCompile Include="RectRender.cpp">
+      <Filter>Enigne\Component\Renderer\Shape\Rect</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteAnimator.cpp">
+      <Filter>Enigne\Component\SpriteAnimator</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteAnimationClip.cpp">
+      <Filter>Enigne\Component\SpriteAnimator</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraComponent.cpp">
+      <Filter>Enigne\Component\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Animator.cpp">
+      <Filter>Enigne\Component\Animator</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioSource.cpp">
+      <Filter>Enigne\Component\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="TextComponent.cpp">
+      <Filter>Enigne\Component\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CanvasGroup.cpp">
+      <Filter>Enigne\Component\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Slider.cpp">
+      <Filter>Enigne\Component\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Enigne\Component\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Enigne\PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="CBase.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Enigne\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Transform.h">
+      <Filter>Enigne\Component\Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>Enigne\Component\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>Enigne\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics.h">
+      <Filter>Enigne\Component\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="CTime.h">
+      <Filter>Common\Time</Filter>
+    </ClInclude>
+    <ClInclude Include="AABBCollider.h">
+      <Filter>Enigne\Component\Collider\AABB</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleCollider.h">
+      <Filter>Enigne\Component\Collider\CC</Filter>
+    </ClInclude>
+    <ClInclude Include="OBBCollider.h">
+      <Filter>Enigne\Component\Collider\OBB</Filter>
+    </ClInclude>
+    <ClInclude Include="LineColider.h">
+      <Filter>Enigne\Component\Collider\LineCircle</Filter>
+    </ClInclude>
+    <ClInclude Include="DeBugPrint.h">
+      <Filter>Common\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerInput.h">
+      <Filter>Common\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>Enigne\Component\Renderer\Base</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeRenderer.h">
+      <Filter>Enigne\Component\Renderer\Shape</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteRenderer.h">
+      <Filter>Enigne\Component\Renderer\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleRender.h">
+      <Filter>Enigne\Component\Renderer\Shape\Circle</Filter>
+    </ClInclude>
+    <ClInclude Include="LineRender.h">
+      <Filter>Enigne\Component\Renderer\Shape\Line</Filter>
+    </ClInclude>
+    <ClInclude Include="RectRender.h">
+      <Filter>Enigne\Component\Renderer\Shape\Rect</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteAnimator.h">
+      <Filter>Enigne\Component\SpriteAnimator</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteAnimationClip.h">
+      <Filter>Enigne\Component\SpriteAnimator</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraComponent.h">
+      <Filter>Enigne\Component\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Animator.h">
+      <Filter>Enigne\Component\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioSource.h">
+      <Filter>Enigne\Component\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="TextComponent.h">
+      <Filter>Enigne\Component\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CanvasGroup.h">
+      <Filter>Enigne\Component\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Slider.h">
+      <Filter>Enigne\Component\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="IUIComponent.h">
+      <Filter>Enigne\Component\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Enigne\Component\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

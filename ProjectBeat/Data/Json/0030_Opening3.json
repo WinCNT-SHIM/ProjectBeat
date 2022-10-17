@@ -1,0 +1,48 @@
+{
+
+  "ImageFilePath": "Data/Image/0030_Opening3.png",
+  "MetaFilePath": "Data/Json/0030_Opening3.json",
+  "SheetName": "0030_Opening3",
+  "SpriteSheet": {
+    "1": {
+      "CenterPosX": 1114,
+      "CenterPosY": 741,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 154,
+      "OriY": 201,
+      "SpriteName": "1",
+      "Width": 1920
+    },
+    "2": {
+      "CenterPosX": 1116,
+      "CenterPosY": 2054,
+      "Height": 1081,
+      "KeyColor": 0,
+      "OriX": 156,
+      "OriY": 1514,
+      "SpriteName": "2",
+      "Width": 1920
+    },
+    "3": {
+      "CenterPosX": 1118,
+      "CenterPosY": 3370,
+      "Height": 1081,
+      "KeyColor": 0,
+      "OriX": 158,
+      "OriY": 2830,
+      "SpriteName": "3",
+      "Width": 1920
+    },
+    "4": {
+      "CenterPosX": 1115,
+      "CenterPosY": 4684,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 156,
+      "OriY": 4144,
+      "SpriteName": "4",
+      "Width": 1919
+    }
+  }
+}

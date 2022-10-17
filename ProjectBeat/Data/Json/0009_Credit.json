@@ -1,0 +1,17 @@
+{
+  "MetaFilePath": "Data/Json/0009_Credit.json",
+  "ImageFilePath": "Data/Image/0009_Credit.png",
+  "SheetName": "0009_Credit",
+  "SpriteSheet": {
+    "0009_Credit": {
+      "CenterPosX": 0,
+      "CenterPosY": 0,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 0,
+      "OriY": 0,
+      "SpriteName": "0009_Credit",
+      "Width": 1920
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+
+  "ImageFilePath": "Data/Image/0024_Drum_Spritesheets.png",
+  "MetaFilePath": "Data\\Json\\0024_Drum_Spritesheets.json",
+  "SheetName": "0024_Drum_Spritesheets",
+  "SpriteSheet": {
+    "Drum_Body Sprite1": {
+      "CenterPosX": 846,
+      "CenterPosY": 1438,
+      "Height": 721,
+      "KeyColor": 0,
+      "OriX": 574,
+      "OriY": 798,
+      "SpriteName": "Drum_Body Sprite1",
+      "Width": 478
+    },
+    "Drum_Head Sprite1": {
+      "CenterPosX": 472,
+      "CenterPosY": 3343,
+      "Height": 860,
+      "KeyColor": 0,
+      "OriX": -3,
+      "OriY": 2521,
+      "SpriteName": "Drum_Head Sprite1",
+      "Width": 914
+    },
+    "Drum_Head Sprite2": {
+      "CenterPosX": 1456,
+      "CenterPosY": 2479,
+      "Height": 839,
+      "KeyColor": 0,
+      "OriX": 920,
+      "OriY": 1667,
+      "SpriteName": "Drum_Head Sprite2",
+      "Width": 901
+    },
+    "Drum_Head Sprite3": {
+      "CenterPosX": 526,
+      "CenterPosY": 2482,
+      "Height": 846,
+      "KeyColor": 0,
+      "OriX": 0,
+      "OriY": 1662,
+      "SpriteName": "Drum_Head Sprite3",
+      "Width": 910
+    },
+    "Drum_LeftFoot Sprite1": {
+      "CenterPosX": 186,
+      "CenterPosY": 114,
+      "Height": 296,
+      "KeyColor": 0,
+      "OriX": 107,
+      "OriY": -3,
+      "SpriteName": "Drum_LeftFoot Sprite1",
+      "Width": 440
+    },
+    "Drum_LeftHand Sprite1": {
+      "CenterPosX": 1756,
+      "CenterPosY": 128,
+      "Height": 621,
+      "KeyColor": 0,
+      "OriX": 1505,
+      "OriY": 66,
+      "SpriteName": "Drum_LeftHand Sprite1",
+      "Width": 513
+    },
+    "Drum_LeftLowerArm Sprite1": {
+      "CenterPosX": 883,
+      "CenterPosY": 69,
+      "Height": 251,
+      "KeyColor": 0,
+      "OriX": 830,
+      "OriY": 51,
+      "SpriteName": "Drum_LeftLowerArm Sprite1",
+      "Width": 112
+    },
+    "Drum_LeftLowerLeg Sprite1": {
+      "CenterPosX": 990,
+      "CenterPosY": 365,
+      "Height": 367,
+      "KeyColor": 0,
+      "OriX": 936,
+      "OriY": 325,
+      "SpriteName": "Drum_LeftLowerLeg Sprite1",
+      "Width": 144
+    },
+    "Drum_LeftTiptoe Sprite1": {
+      "CenterPosX": 312,
+      "CenterPosY": 492,
+      "Height": 348,
+      "KeyColor": 0,
+      "OriX": 282,
+      "OriY": 326,
+      "SpriteName": "Drum_LeftTiptoe Sprite1",
+      "Width": 279
+    },
+    "Drum_LeftUpperArm Sprite1": {
+      "CenterPosX": 603,
+      "CenterPosY": 371,
+      "Height": 354,
+      "KeyColor": 0,
+      "OriX": 564,
+      "OriY": 325,
+      "SpriteName": "Drum_LeftUpperArm Sprite1",
+      "Width": 108
+    },
+    "Drum_LeftUpperLeg Sprite1": {
+      "CenterPosX": 1269,
+      "CenterPosY": 902,
+      "Height": 697,
+      "KeyColor": 0,
+      "OriX": 1147,
+      "OriY": 826,
+      "SpriteName": "Drum_LeftUpperLeg Sprite1",
+      "Width": 301
+    },
+    "Drum_RightFoot Sprite1": {
+      "CenterPosX": 199,
+      "CenterPosY": 132,
+      "Height": 296,
+      "KeyColor": 0,
+      "OriX": 109,
+      "OriY": 0,
+      "SpriteName": "Drum_RightFoot Sprite1",
+      "Width": 439
+    },
+    "Drum_RightHand Sprite1": {
+      "CenterPosX": 254,
+      "CenterPosY": 793,
+      "Height": 619,
+      "KeyColor": 0,
+      "OriX": -1,
+      "OriY": 740,
+      "SpriteName": "Drum_RightHand Sprite1",
+      "Width": 515
+    },
+    "Drum_RightLowerArm Sprite1": {
+      "CenterPosX": 54,
+      "CenterPosY": 26,
+      "Height": 249,
+      "KeyColor": 0,
+      "OriX": 3,
+      "OriY": -2,
+      "SpriteName": "Drum_RightLowerArm Sprite1",
+      "Width": 101
+    },
+    "Drum_RightLowerLeg Sprite1": {
+      "CenterPosX": 790,
+      "CenterPosY": 372,
+      "Height": 356,
+      "KeyColor": 0,
+      "OriX": 670,
+      "OriY": 327,
+      "SpriteName": "Drum_RightLowerLeg Sprite1",
+      "Width": 168
+    },
+    "Drum_RightTiptoe Sprite1": {
+      "CenterPosX": 32,
+      "CenterPosY": 468,
+      "Height": 341,
+      "KeyColor": 0,
+      "OriX": -4,
+      "OriY": 328,
+      "SpriteName": "Drum_RightTiptoe Sprite1",
+      "Width": 287
+    },
+    "Drum_RightUpperArm Sprite1": {
+      "CenterPosX": 608,
+      "CenterPosY": 372,
+      "Height": 353,
+      "KeyColor": 0,
+      "OriX": 564,
+      "OriY": 325,
+      "SpriteName": "Drum_RightUpperArm Sprite1",
+      "Width": 107
+    },
+    "Drum_RightUpperLeg Sprite1": {
+      "CenterPosX": 1799,
+      "CenterPosY": 949,
+      "Height": 712,
+      "KeyColor": 0,
+      "OriX": 1583,
+      "OriY": 854,
+      "SpriteName": "Drum_RightUpperLeg Sprite1",
+      "Width": 325
+    },
+    "Drum_Waist Sprite1": {
+      "CenterPosX": 1305,
+      "CenterPosY": 299,
+      "Height": 311,
+      "KeyColor": 0,
+      "OriX": 1105,
+      "OriY": 14,
+      "SpriteName": "Drum_Waist Sprite1",
+      "Width": 360
+    }
+  }
+}

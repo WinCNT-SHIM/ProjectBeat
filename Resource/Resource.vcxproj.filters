@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{5d0e2789-91da-4ef0-b8ce-d04f7f8042e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\Json">
+      <UniqueIdentifier>{62dcb6de-f237-4759-a25d-e63c2108d39f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\ResourceManager">
+      <UniqueIdentifier>{31c48b29-fbeb-42b1-b987-f70e5f7fa86b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\Sprite">
+      <UniqueIdentifier>{c897b7d3-c372-4ab2-8f16-f3813ca8a8f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\Animation">
+      <UniqueIdentifier>{cccdc18b-e1ac-476b-b302-d5a2b7e810f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource\Audio">
+      <UniqueIdentifier>{bc33796f-74c1-4b6c-894d-297c9b76279c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Resource\D2DSprite.cpp">
+      <Filter>Resource\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\D2DSpriteSheet.cpp">
+      <Filter>Resource\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\ISprite.cpp">
+      <Filter>Resource\Sprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\JsonParse.cpp">
+      <Filter>Resource\Json</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\ResourceManager.cpp">
+      <Filter>Resource\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\AnimationClip.cpp">
+      <Filter>Resource\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\AnimationSnap.cpp">
+      <Filter>Resource\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\AnimatorController.cpp">
+      <Filter>Resource\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\AudioClip.cpp">
+      <Filter>Resource\Audio</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Resource\D2DSprite.h">
+      <Filter>Resource\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\D2DSpriteSheet.h">
+      <Filter>Resource\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\ISprite.h">
+      <Filter>Resource\Sprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\JsonParse.h">
+      <Filter>Resource\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\nlohmann\json.hpp">
+      <Filter>Resource\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\DataInfo.h">
+      <Filter>Resource\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\EngineMacro.h">
+      <Filter>Resource\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\ResouceDefine.h">
+      <Filter>Resource\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\ResourceManager.h">
+      <Filter>Resource\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\AnimationClip.h">
+      <Filter>Resource\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\AnimationSnap.h">
+      <Filter>Resource\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\AnimatorController.h">
+      <Filter>Resource\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource\AudioClip.h">
+      <Filter>Resource\Audio</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

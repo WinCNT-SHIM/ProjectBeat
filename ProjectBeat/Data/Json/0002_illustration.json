@@ -1,0 +1,48 @@
+{
+
+  "ImageFilePath": "Data/Image/0002_illustration.png",
+  "MetaFilePath": "Data/Json/0002_illustration.json",
+  "SheetName": "0002_illustration",
+  "SpriteSheet": {
+    "DRUM": {
+      "CenterPosX": 333,
+      "CenterPosY": 540,
+      "Height": 903,
+      "KeyColor": 0,
+      "OriX": 116,
+      "OriY": 89,
+      "SpriteName": "DRUM",
+      "Width": 435
+    },
+    "GUITAR": {
+      "CenterPosX": 2206,
+      "CenterPosY": 492,
+      "Height": 806,
+      "KeyColor": 0,
+      "OriX": 1915,
+      "OriY": 89,
+      "SpriteName": "GUITAR",
+      "Width": 583
+    },
+    "SYNTHESIZER": {
+      "CenterPosX": 3260,
+      "CenterPosY": 510,
+      "Height": 852,
+      "KeyColor": 0,
+      "OriX": 2938,
+      "OriY": 84,
+      "SpriteName": "SYNTHESIZER",
+      "Width": 645
+    },
+    "TAMBOURINE": {
+      "CenterPosX": 1235,
+      "CenterPosY": 514,
+      "Height": 858,
+      "KeyColor": 0,
+      "OriX": 948,
+      "OriY": 85,
+      "SpriteName": "TAMBOURINE",
+      "Width": 574
+    }
+  }
+}

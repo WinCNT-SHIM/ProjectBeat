@@ -1,0 +1,178 @@
+{
+
+  "ImageFilePath": "Data/Image/0037_Ef_HitElec.png",
+  "MetaFilePath": "Data/Json/0037_Ef_HitElec.json",
+  "SheetName": "0037_Ef_HitElec",
+  "SpriteSheet": {
+    "K": {
+      "CenterPosX": -200,
+      "CenterPosY": 114,
+      "Height": 184,
+      "KeyColor": 0,
+      "OriX": 4,
+      "OriY": 172,
+      "SpriteName": "K",
+      "Width": 299
+    },
+    "KP": {
+      "CenterPosX": 506,
+      "CenterPosY": 133,
+      "Height": 439,
+      "KeyColor": 0,
+      "OriX": 318,
+      "OriY": 14,
+      "SpriteName": "KP",
+      "Width": 577
+    },
+    "KPP": {
+      "CenterPosX": 834,
+      "CenterPosY": 369,
+      "Height": 442,
+      "KeyColor": 0,
+      "OriX": 874,
+      "OriY": 18,
+      "SpriteName": "KPP",
+      "Width": 280
+    },
+    "KPPK": {
+      "CenterPosX": 1443,
+      "CenterPosY": 778,
+      "Height": 390,
+      "KeyColor": 0,
+      "OriX": 1274,
+      "OriY": 83,
+      "SpriteName": "KPPK",
+      "Width": 339
+    },
+    "KPPKK": {
+      "CenterPosX": 1880,
+      "CenterPosY": 296,
+      "Height": 252,
+      "KeyColor": 0,
+      "OriX": 1699,
+      "OriY": 170,
+      "SpriteName": "KPPKK",
+      "Width": 363
+    },
+    "P": {
+      "CenterPosX": 128,
+      "CenterPosY": 721,
+      "Height": 267,
+      "KeyColor": 0,
+      "OriX": 133,
+      "OriY": 588,
+      "SpriteName": "P",
+      "Width": 290
+    },
+    "PK": {
+      "CenterPosX": 473,
+      "CenterPosY": 681,
+      "Height": 179,
+      "KeyColor": 0,
+      "OriX": 492,
+      "OriY": 722,
+      "SpriteName": "PK",
+      "Width": 302
+    },
+    "PKK": {
+      "CenterPosX": 923,
+      "CenterPosY": 1828,
+      "Height": 248,
+      "KeyColor": 0,
+      "OriX": 903,
+      "OriY": 1704,
+      "SpriteName": "PKK",
+      "Width": 341
+    },
+    "PKKP": {
+      "CenterPosX": 1401,
+      "CenterPosY": 1854,
+      "Height": 409,
+      "KeyColor": 0,
+      "OriX": 1363,
+      "OriY": 1650,
+      "SpriteName": "PKKP",
+      "Width": 316
+    },
+    "PKKPK": {
+      "CenterPosX": 1941,
+      "CenterPosY": 1842,
+      "Height": 504,
+      "KeyColor": 0,
+      "OriX": 1818,
+      "OriY": 1590,
+      "SpriteName": "PKKPK",
+      "Width": 247
+    },
+    "PKP": {
+      "CenterPosX": 548,
+      "CenterPosY": 920,
+      "Height": 543,
+      "KeyColor": 0,
+      "OriX": 785,
+      "OriY": 449,
+      "SpriteName": "PKP",
+      "Width": 327
+    },
+    "PKPP": {
+      "CenterPosX": 1148,
+      "CenterPosY": 744,
+      "Height": 295,
+      "KeyColor": 0,
+      "OriX": 1287,
+      "OriY": 597,
+      "SpriteName": "PKPP",
+      "Width": 323
+    },
+    "PKPPK": {
+      "CenterPosX": 1576,
+      "CenterPosY": 736,
+      "Height": 415,
+      "KeyColor": 0,
+      "OriX": 1712,
+      "OriY": 529,
+      "SpriteName": "PKPPK",
+      "Width": 329
+    },
+    "PP": {
+      "CenterPosX": 356,
+      "CenterPosY": 1306,
+      "Height": 324,
+      "KeyColor": 0,
+      "OriX": 441,
+      "OriY": 1194,
+      "SpriteName": "PP",
+      "Width": 391
+    },
+    "PPP": {
+      "CenterPosX": 901,
+      "CenterPosY": 1521,
+      "Height": 445,
+      "KeyColor": 0,
+      "OriX": 911,
+      "OriY": 1099,
+      "SpriteName": "PPP",
+      "Width": 241
+    },
+    "PPPP": {
+      "CenterPosX": 1481,
+      "CenterPosY": 1256,
+      "Height": 246,
+      "KeyColor": 0,
+      "OriX": 1351,
+      "OriY": 1133,
+      "SpriteName": "PPPP",
+      "Width": 261
+    },
+    "PPPPP": {
+      "CenterPosX": 1684,
+      "CenterPosY": 1322,
+      "Height": 342,
+      "KeyColor": 0,
+      "OriX": 1668,
+      "OriY": 1151,
+      "SpriteName": "PPPPP",
+      "Width": 333
+    }
+  }
+}

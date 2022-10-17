@@ -1,0 +1,107 @@
+{
+    "ImageFilePath": "Data/Image/0013_Num.png",
+    "MetaFilePath": "Data/Json/0013_Num.json",
+    "SheetName": "0013_Num",
+    "SpriteSheet": {
+        "Num0": {
+            "CenterPosX": 532,
+            "CenterPosY": 34,
+            "Height": 69,
+            "KeyColor": 0,
+            "OriX": 505,
+            "OriY": 0,
+            "SpriteName": "Num0",
+            "Width": 54
+        },
+        "Num1": {
+            "CenterPosX": 27,
+            "CenterPosY": 34,
+            "Height": 69,
+            "KeyColor": 0,
+            "OriX": 0,
+            "OriY": 0,
+            "SpriteName": "Num1",
+            "Width": 54
+        },
+        "Num2": {
+            "CenterPosX": 81,
+            "CenterPosY": 34,
+            "Height": 69,
+            "KeyColor": 0,
+            "OriX": 54,
+            "OriY": 0,
+            "SpriteName": "Num2",
+            "Width": 54
+        },
+        "Num3": {
+            "CenterPosX": 136,
+            "CenterPosY": 34,
+            "Height": 69,
+            "KeyColor": 0,
+            "OriX": 109,
+            "OriY": 0,
+            "SpriteName": "Num3",
+            "Width": 54
+        },
+        "Num4": {
+            "CenterPosX": 194,
+            "CenterPosY": 34,
+            "Height": 69,
+            "KeyColor": 0,
+            "OriX": 167,
+            "OriY": 0,
+            "SpriteName": "Num4",
+            "Width": 54
+        },
+        "Num5": {
+            "CenterPosX": 252,
+            "CenterPosY": 34,
+            "Height": 69,
+            "KeyColor": 0,
+            "OriX": 225,
+            "OriY": 0,
+            "SpriteName": "Num5",
+            "Width": 54
+        },
+        "Num6": {
+            "CenterPosX": 307,
+            "CenterPosY": 34,
+            "Height": 69,
+            "KeyColor": 0,
+            "OriX": 280,
+            "OriY": 0,
+            "SpriteName": "Num6",
+            "Width": 54
+        },
+        "Num7": {
+            "CenterPosX": 361,
+            "CenterPosY": 34,
+            "Height": 69,
+            "KeyColor": 0,
+            "OriX": 334,
+            "OriY": 0,
+            "SpriteName": "Num7",
+            "Width": 54
+        },
+        "Num8": {
+            "CenterPosX": 416,
+            "CenterPosY": 34,
+            "Height": 69,
+            "KeyColor": 0,
+            "OriX": 389,
+            "OriY": 0,
+            "SpriteName": "Num8",
+            "Width": 54
+        },
+        "Num9": {
+            "CenterPosX": 475,
+            "CenterPosY": 34,
+            "Height": 69,
+            "KeyColor": 0,
+            "OriX": 448,
+            "OriY": 0,
+            "SpriteName": "Num9",
+            "Width": 54
+        }
+    }
+}

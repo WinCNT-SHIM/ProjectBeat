@@ -1,0 +1,67 @@
+{
+  "ImageFilePath": "Data/Image/0000_Effect_Test.png",
+  "MetaFilePath": "Data/Json/0000_Effect_Test.json",
+  "SheetName": "0000_Effect_Test Sheet",
+  "SpriteSheet": {
+    "EFFECT1": {
+      "CenterPosX": 56,
+      "CenterPosY": 55,
+      "Height": 42,
+      "KeyColor": 0,
+      "OriX": 10,
+      "OriY": 34,
+      "SpriteName": "EFFECT1",
+      "Width": 92
+    },
+    "EFFECT2": {
+      "CenterPosX": 171,
+      "CenterPosY": 53,
+      "Height": 62,
+      "KeyColor": 0,
+      "OriX": 120,
+      "OriY": 22,
+      "SpriteName": "EFFECT2",
+      "Width": 102
+    },
+    "EFFECT3": {
+      "CenterPosX": 309,
+      "CenterPosY": 60,
+      "Height": 66,
+      "KeyColor": 0,
+      "OriX": 243,
+      "OriY": 27,
+      "SpriteName": "EFFECT3",
+      "Width": 133
+    },
+    "EFFECT4": {
+      "CenterPosX": 53,
+      "CenterPosY": 157,
+      "Height": 29,
+      "KeyColor": 0,
+      "OriX": 12,
+      "OriY": 143,
+      "SpriteName": "EFFECT4",
+      "Width": 83
+    },
+    "EFFECT5": {
+      "CenterPosX": 170,
+      "CenterPosY": 160,
+      "Height": 61,
+      "KeyColor": 0,
+      "OriX": 120,
+      "OriY": 130,
+      "SpriteName": "EFFECT5",
+      "Width": 101
+    },
+    "EFFECT6": {
+      "CenterPosX": 322,
+      "CenterPosY": 161,
+      "Height": 65,
+      "KeyColor": 0,
+      "OriX": 270,
+      "OriY": 129,
+      "SpriteName": "EFFECT6",
+      "Width": 104
+    }
+  }
+}

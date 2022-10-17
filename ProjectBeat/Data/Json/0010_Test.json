@@ -1,0 +1,127 @@
+{
+  "MetaFilePath": "Data\\Json\\0010_Test.json",
+  "ImageFilePath": "Data\\Image\\0010_Test.png",
+  "SheetName": "Test Sheet",
+  "SpriteSheet": {
+    "Head Sprite1": {
+      "CenterPosX": 830,
+      "CenterPosY": 1090,
+      "Height": 721,
+      "KeyColor": 0,
+      "OriX": 412,
+      "OriY": 401,
+      "SpriteName": "Head Sprite1",
+      "Width": 819
+    },
+    "Head Sprite2": {
+      "CenterPosX": 1830,
+      "CenterPosY": 1090,
+      "Height": 716,
+      "KeyColor": 0,
+      "OriX": 1419,
+      "OriY": 404,
+      "SpriteName": "Head Sprite2",
+      "Width": 849
+    },
+    "Head Sprite3": {
+      "CenterPosX": 2850,
+      "CenterPosY": 1090,
+      "Height": 715,
+      "KeyColor": 0,
+      "OriX": 2425,
+      "OriY": 401,
+      "SpriteName": "Head Sprite3",
+      "Width": 833
+    },
+    "Body Sprite1": {
+      "CenterPosX": 2970,
+      "CenterPosY": 1800,
+      "Height": 749,
+      "KeyColor": 0,
+      "OriX": 2743,
+      "OriY": 1156,
+      "SpriteName": "Body Sprite1",
+      "Width": 424
+    },
+    "UpperArm Sprite1": {
+      "CenterPosX": 400,
+      "CenterPosY": 1600,
+      "Height": 252,
+      "KeyColor": 0,
+      "OriX": 370,
+      "OriY": 1565,
+      "SpriteName": "UpperArm Sprite1",
+      "Width": 86
+    },
+    "LowerArm Sprite1": {
+      "CenterPosX": 600,
+      "CenterPosY": 1630,
+      "Height": 229,
+      "KeyColor": 0,
+      "OriX": 548,
+      "OriY": 1584,
+      "SpriteName": "LowerArm Sprite1",
+      "Width": 89
+    },
+    "Hand Sprite1": {
+      "CenterPosX": 940,
+      "CenterPosY": 1410,
+      "Height": 534,
+      "KeyColor": 0,
+      "OriX": 713,
+      "OriY": 1343,
+      "SpriteName": "Hand Sprite1",
+      "Width": 461
+    },
+    "RightUpperLeg Sprite1": {
+      "CenterPosX": 1350,
+      "CenterPosY": 1340,
+      "Height": 618,
+      "KeyColor": 0,
+      "OriX": 1173,
+      "OriY": 1245,
+      "SpriteName": "RightUpperLeg Sprite1",
+      "Width": 298
+    },
+    "LeftUpperLeg Sprite1": {
+      "CenterPosX": 1600,
+      "CenterPosY": 1340,
+      "Height": 613,
+      "KeyColor": 0,
+      "OriX": 1472,
+      "OriY": 1243,
+      "SpriteName": "LeftUpperLeg Sprite1",
+      "Width": 289
+    },
+    "LowerLeg Sprite1": {
+      "CenterPosX": 1830,
+      "CenterPosY": 1590,
+      "Height": 330,
+      "KeyColor": 0,
+      "OriX": 1766,
+      "OriY": 1526,
+      "SpriteName": "LowerLeg Sprite1",
+      "Width": 122
+    },
+    "Foot Sprite1": {
+      "CenterPosX": 2070,
+      "CenterPosY": 1700,
+      "Height": 295,
+      "KeyColor": 0,
+      "OriX": 1957,
+      "OriY": 1555,
+      "SpriteName": "Foot Sprite1",
+      "Width": 410
+    },
+    "Foot Sprite2": {
+      "CenterPosX": 2500,
+      "CenterPosY": 1710,
+      "Height": 307,
+      "KeyColor": 0,
+      "OriX": 2426,
+      "OriY": 1549,
+      "SpriteName": "Foot Sprite2",
+      "Width": 248
+    }
+  }
+}

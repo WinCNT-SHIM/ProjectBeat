@@ -1,0 +1,88 @@
+{
+
+  "ImageFilePath": "Data/Image/0021_SpecialPanel.png",
+  "MetaFilePath": "Data/Json/0021_SpecialPanel.json",
+  "SheetName": "0021_SpecialPanel",
+  "SpriteSheet": {
+    "P1DRUM": {
+      "CenterPosX": 577,
+      "CenterPosY": 380,
+      "Height": 538,
+      "KeyColor": 0,
+      "OriX": 205,
+      "OriY": 111,
+      "SpriteName": "P1DRUM",
+      "Width": 745
+    },
+    "P1GUITAR": {
+      "CenterPosX": 1367,
+      "CenterPosY": 340,
+      "Height": 608,
+      "KeyColor": 0,
+      "OriX": 995,
+      "OriY": 36,
+      "SpriteName": "P1GUITAR",
+      "Width": 744
+    },
+    "P1SYNTHESIZER": {
+      "CenterPosX": 576,
+      "CenterPosY": 966,
+      "Height": 472,
+      "KeyColor": 0,
+      "OriX": 204,
+      "OriY": 730,
+      "SpriteName": "P1SYNTHESIZER",
+      "Width": 744
+    },
+    "P1TAMBOURINE": {
+      "CenterPosX": 1370,
+      "CenterPosY": 930,
+      "Height": 542,
+      "KeyColor": 0,
+      "OriX": 971,
+      "OriY": 659,
+      "SpriteName": "P1TAMBOURINE",
+      "Width": 799
+    },
+    "P2DRUM": {
+      "CenterPosX": 3308,
+      "CenterPosY": 368,
+      "Height": 540,
+      "KeyColor": 0,
+      "OriX": 2933,
+      "OriY": 98,
+      "SpriteName": "P2DRUM",
+      "Width": 751
+    },
+    "P2GUITAR": {
+      "CenterPosX": 2495,
+      "CenterPosY": 326,
+      "Height": 604,
+      "KeyColor": 0,
+      "OriX": 2124,
+      "OriY": 24,
+      "SpriteName": "P2GUITAR",
+      "Width": 743
+    },
+    "P2SYNTHESIZER": {
+      "CenterPosX": 3310,
+      "CenterPosY": 963,
+      "Height": 475,
+      "KeyColor": 0,
+      "OriX": 2938,
+      "OriY": 726,
+      "SpriteName": "P2SYNTHESIZER",
+      "Width": 745
+    },
+    "P2TAMBOURINE": {
+      "CenterPosX": 2480,
+      "CenterPosY": 950,
+      "Height": 505,
+      "KeyColor": 0,
+      "OriX": 2110,
+      "OriY": 698,
+      "SpriteName": "P2TAMBOURINE",
+      "Width": 740
+    }
+  }
+}

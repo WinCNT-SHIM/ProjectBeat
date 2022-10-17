@@ -1,0 +1,604 @@
+{
+	"BooleanParameter": {
+		"Run": false,
+		"Back": false,
+		"Falling": false,
+		"Guard": false
+	},
+	"IntParameter": {
+		"Start": 5,
+		"Win": 5
+	},
+	"FloatParameter": {},
+	"TriggerParameter": {
+		"hit": false,
+		"Kick": false,
+		"Punch": false,
+		"Jump": false,
+		"Death": false,
+		"Groggy": false,
+		"New": false
+	},
+	"Name": "HumanAnimatorController",
+	"Nodes": {
+		"Run": {
+			"ClipName": "Run",
+			"Links": [
+				{
+					"Condition": 0,
+					"LinkedNode": "idle",
+					"ParameterName": "Run",
+					"Type": 2,
+					"Value": false
+				},
+				{
+					"Condition": 0,
+					"LinkedNode": "Jump",
+					"ParameterName": "Jump",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "P",
+					"ParameterName": "Punch",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "K",
+					"ParameterName": "Kick",
+					"Type": 3
+				},
+				{
+					"Condition": 0,
+					"LinkedNode": "Guard",
+					"ParameterName": "Guard",
+					"Type": 2,
+					"Value": true
+				}
+			]
+		},
+		"Backstep": {
+			"ClipName": "Backstep",
+			"Links": [
+				{
+					"Condition": 0,
+					"LinkedNode": "idle",
+					"ParameterName": "Back",
+					"Type": 2,
+					"Value": false
+				},
+				{
+					"Condition": 0,
+					"LinkedNode": "Jump",
+					"ParameterName": "Jump",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "P",
+					"ParameterName": "Punch",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "K",
+					"ParameterName": "Kick",
+					"Type": 3
+				},
+				{
+					"Condition": 0,
+					"LinkedNode": "Guard",
+					"ParameterName": "Guard",
+					"Type": 2,
+					"Value": true
+				}
+			]
+		},
+		"Guard": {
+			"ClipName": "Guard",
+			"Links": [
+				{
+					"Condition": 0,
+					"LinkedNode": "idle",
+					"ParameterName": "Guard",
+					"Type": 2,
+					"Value": false
+				}
+			]
+		},
+		"idle": {
+			"ClipName": "idle",
+			"Links": [
+				{
+					"Condition": 0,
+					"LinkedNode": "Run",
+					"ParameterName": "Run",
+					"Type": 2,
+					"Value": true
+				},
+				{
+					"Condition": 0,
+					"LinkedNode": "Backstep",
+					"ParameterName": "Back",
+					"Type": 2,
+					"Value": true
+				},
+				{
+					"Condition": 0,
+					"LinkedNode": "Jump",
+					"ParameterName": "Jump",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "P",
+					"ParameterName": "Punch",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "K",
+					"ParameterName": "Kick",
+					"Type": 3
+				},
+				{
+					"Condition": 0,
+					"LinkedNode": "Guard",
+					"ParameterName": "Guard",
+					"Type": 2,
+					"Value": true
+				},
+				{
+					"Condition": 2,
+					"LinkedNode": "Drum_start",
+					"ParameterName": "Start",
+					"Type": 0,
+					"Value": 0
+				},
+				{
+					"Condition": 2,
+					"LinkedNode": "Guitar_start",
+					"ParameterName": "Start",
+					"Type": 0,
+					"Value": 2
+				},
+				{
+					"Condition": 2,
+					"LinkedNode": "Synth_start",
+					"ParameterName": "Start",
+					"Type": 0,
+					"Value": 1
+				},
+				{
+					"Condition": 2,
+					"LinkedNode": "Tambourine_start",
+					"ParameterName": "Start",
+					"Type": 0,
+					"Value": 3
+				},
+				{
+					"Condition": 2,
+					"LinkedNode": "Drum_winning",
+					"ParameterName": "Win",
+					"Type": 0,
+					"Value": 0
+				},
+				{
+					"Condition": 2,
+					"LinkedNode": "Guitar_winning",
+					"ParameterName": "Win",
+					"Type": 0,
+					"Value": 2
+				},
+				{
+					"Condition": 2,
+					"LinkedNode": "Synth_winning",
+					"ParameterName": "Win",
+					"Type": 0,
+					"Value": 1
+				},
+				{
+					"Condition": 2,
+					"LinkedNode": "Tambourine_winning",
+					"ParameterName": "Win",
+					"Type": 0,
+					"Value": 3
+				}
+			]
+		},
+		"Jump": {
+			"ClipName": "Jump",
+			"Links": [
+				{
+					"LinkedNode": "Falling",
+					"Type": 4
+				}
+			]
+		},
+		"Standby": {
+			"ClipName": "idle",
+			"Links": [
+
+			]
+		},
+		"Falling": {
+			"ClipName": "Falling",
+			"Links": [
+				{
+					"Condition": 0,
+					"LinkedNode": "idle",
+					"ParameterName": "Falling",
+					"Type": 2,
+					"Value": false
+				}
+			]
+		},
+		"P": {
+			"ClipName": "P",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PP",
+					"ParameterName": "Punch",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "PK",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+		"PP": {
+			"ClipName": "PP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PPP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+		"PPP": {
+			"ClipName": "PPP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PPPP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+		"PPPP": {
+			"ClipName": "PPPP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PPPPP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+		"PPPPP": {
+			"ClipName": "PPPPP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				}
+			]
+		},
+		"PK": {
+			"ClipName": "PK",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PKP",
+					"ParameterName": "Punch",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "PKK",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+		"PKP": {
+			"ClipName": "PKP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PKPP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+		"PKPP": {
+			"ClipName": "PKPP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PKPPK",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+		"PKPPK": {
+			"ClipName": "PKPPK",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				}
+			]
+		},
+		"PKK": {
+			"ClipName": "PKK",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PKKP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+		"PKKP": {
+			"ClipName": "PKKP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PKKPK",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+		"PKKPK": {
+			"ClipName": "PKKPK",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				}
+			]
+		},
+		"K": {
+			"ClipName": "K",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "KP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+		"KP": {
+			"ClipName": "KP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "KPP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+		"KPP": {
+			"ClipName": "KPP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "KPPK",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+		"KPPK": {
+			"ClipName": "KPPK",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "KPPKK",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+		"KPPKK": {
+			"ClipName": "KPPKK",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				}
+			]
+		},
+		"hit": {
+			"ClipName": "hit",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				}
+			]
+		},
+		"Groggy": {
+			"ClipName": "Groggy",
+			"Links": [
+				{
+					"LinkedNode": "Stun",
+					"Type": 4
+				}
+			]
+		},
+		"Stun": {
+			"ClipName": "Stun",
+			"Links": [
+				{
+					"LinkedNode": "StandUp",
+					"ParameterName": "Groggy",
+					"Type": 3
+				}
+			]
+		},
+		"StandUp": {
+			"ClipName": "StandUp",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				}
+			]
+		},
+		"Death": {
+			"ClipName": "Groggy",
+			"Links": [
+				{
+					"LinkedNode": "Stun",
+					"Type": 4
+				}
+			]
+		},
+		"Drum_start": {
+			"ClipName": "Drum_start",
+			"Links": [
+				{
+					"LinkedNode": "Standby",
+					"Type": 4
+				}
+			]
+		},
+		"Guitar_start": {
+			"ClipName": "Guitar_start",
+			"Links": [
+				{
+					"LinkedNode": "Standby",
+					"Type": 4
+				}
+			]
+		},
+		"Synth_start": {
+			"ClipName": "Synth_start",
+			"Links": [
+				{
+					"LinkedNode":"Standby",
+					"Type": 4
+				}
+			]
+		},
+		"Tambourine_start": {
+			"ClipName": "Tambourine_start",
+			"Links": [
+				{
+					"LinkedNode": "Standby",
+					"Type": 4
+				}
+			]
+		},
+		"Drum_winning": {
+			"ClipName": "Drum_winning",
+			"Links": [
+				{
+					"LinkedNode": "Standby",
+					"Type": 4
+				}
+			]
+		},
+		"Guitar_winning": {
+			"ClipName": "Guitar_winning",
+			"Links": [
+				{
+					"LinkedNode": "Standby",
+					"Type": 4
+				}
+			]
+		},
+		"Synth_winning": {
+			"ClipName": "Synth_winning",
+			"Links": [
+				{
+					"LinkedNode": "Standby",
+					"Type": 4
+				}
+			]
+		},
+		"Tambourine_winning": {
+			"ClipName": "Tambourine_winning",
+			"Links": [
+				{
+					"LinkedNode": "Standby",
+					"Type": 4
+				}
+			]
+		}
+	},
+	"AnyStateNode": {
+		"ClipName": "AnyStateNode",
+		"Links": [
+			{
+				"LinkedNode": "hit",
+				"ParameterName": "hit",
+				"Type": 3
+			},
+			{
+				"LinkedNode": "Death",
+				"ParameterName": "Death",
+				"Type": 3
+			},
+			{
+				"LinkedNode": "Groggy",
+				"ParameterName": "Groggy",
+				"Type": 3
+			},
+			{
+				"LinkedNode": "idle",
+				"ParameterName": "New",
+				"Type": 3
+			}
+
+		]
+	}
+}

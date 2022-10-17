@@ -1,0 +1,209 @@
+{
+  "BooleanParameter": {
+    "Run": false,
+    "Back": false,
+    "Leap": false,
+    "Death": false,
+    "Hit": false
+  },
+  "FloatParameter": {
+
+  },
+  "IntParameter": {
+    "Attack": 0
+  },
+  "TriggerParameter": {
+    "Hit": false,
+    "Punch1": false
+  },
+  "Name": "HumanAnimatorController",
+  "Nodes": {
+    "Run": {
+      "ClipName": "Run",
+      "Links": [
+        {
+          "Condition": 0,
+          "LinkedNode": "idle",
+          "ParameterName": "Run",
+          "Type": 2,
+          "Value": false
+        }
+      ]
+    },
+    "idle": {
+      "ClipName": "idle",
+      "Links": [
+        {
+          "Condition": 0,
+          "LinkedNode": "Run",
+          "ParameterName": "Run",
+          "Type": 2,
+          "Value": true
+        },
+        {
+          "Condition": 0,
+          "LinkedNode": "Backstep",
+          "ParameterName": "Back",
+          "Type": 2,
+          "Value": true
+        },
+        {
+          "Condition": 0,
+          "LinkedNode": "leap",
+          "ParameterName": "Leap",
+          "Type": 2,
+          "Value": true
+        },
+        {
+          "Condition": 0,
+          "LinkedNode": "Death",
+          "ParameterName": "Death",
+          "Type": 2,
+          "Value": true
+        },
+        {
+          "Condition": 2,
+          "LinkedNode": "P",
+          "ParameterName": "Attack",
+          "Type": 0,
+          "Value": 1
+        },
+        {
+          "Condition": 2,
+          "LinkedNode": "K",
+          "ParameterName": "Attack",
+          "Type": 0,
+          "Value": 2
+        }
+      ]
+    },
+    "Backstep": {
+      "ClipName": "Backstep",
+      "Links": [
+        {
+          "Condition": 0,
+          "LinkedNode": "idle",
+          "ParameterName": "Back",
+          "Type": 2,
+          "Value": false
+        }
+      ]
+    },
+    "leap": {
+      "ClipName": "leap",
+      "Links": [
+        {
+          "Condition": 0,
+          "LinkedNode": "idle",
+          "ParameterName": "Leap",
+          "Type": 2,
+          "Value": false
+        }
+      ]
+    },
+    "Death": {
+      "ClipName": "groggy",
+      "Links": [
+        {
+          "Condition": 0,
+          "LinkedNode": "idle",
+          "ParameterName": "Death",
+          "Type": 2,
+          "Value": false
+        }
+      ]
+    },
+    "P": {
+      "ClipName": "P",
+      "Links": [
+       
+        {
+          "LinkedNode": "idle",
+          "Type": 4
+        }
+      ]
+    },
+    "K": {
+      "ClipName": "K",
+      "Links": [
+        {
+          "Condition": 2,
+          "LinkedNode": "idle",
+          "ParameterName": "Attack",
+          "Type": 0,
+          "Value": 0
+        },
+        {
+          "Condition": 2,
+          "LinkedNode": "KP",
+          "ParameterName": "Attack",
+          "Type": 0,
+          "Value": 21
+        }
+      ]
+    },
+    "KP": {
+      "ClipName": "KP",
+      "Links": [
+        {
+          "Condition": 2,
+          "LinkedNode": "idle",
+          "ParameterName": "Attack",
+          "Type": 0,
+          "Value": 0
+        }
+
+      ]
+    },
+    "PK": {
+      "ClipName": "PK",
+      "Links": [
+        {
+          "Condition": 2,
+          "LinkedNode": "idle",
+          "ParameterName": "Attack",
+          "Type": 0,
+          "Value": 0
+        }
+
+      ]
+    },
+    "Hit": {
+      "ClipName": "groggy",
+      "Links": [
+        {
+          "Condition": 0,
+          "LinkedNode": "idle",
+          "ParameterName": "Hit",
+          "Type": 2,
+          "Value": false
+        }
+      ]
+    },
+    "hit": {
+      "ClipName": "hit",
+      "Links": [
+        {
+          "LinkedNode": "idle",
+          "Type": 4
+        }
+      ]
+    }
+  },
+  "AnyStateNode": {
+    "ClipName": "AnyStateNode",
+    "Links": [
+      {
+        "LinkedNode": "hit",
+        "ParameterName": "Hit",
+        "Type": 3
+      },
+      {
+        "LinkedNode": "P",
+        "ParameterName": "Punch1",
+        "Type": 3
+      }
+    ]
+  }
+}
+

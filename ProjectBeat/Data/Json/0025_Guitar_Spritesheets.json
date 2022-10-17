@@ -1,0 +1,198 @@
+{
+
+  "ImageFilePath": "Data/Image/0025_Guitar_Spritesheets.png",
+  "MetaFilePath": "Data/Json/0025_Guitar_Spritesheets.json",
+  "SheetName": "0025_Guitar_Spritesheets",
+  "SpriteSheet": {
+    "Guitar_Body Sprite1": {
+      "CenterPosX": 1034,
+      "CenterPosY": 1966,
+      "Height": 616,
+      "KeyColor": 0,
+      "OriX": 763,
+      "OriY": 1308,
+      "SpriteName": "Guitar_Body Sprite1",
+      "Width": 483
+    },
+    "Guitar_Head Sprite1": {
+      "CenterPosX": 894,
+      "CenterPosY": 3128,
+      "Height": 965,
+      "KeyColor": 0,
+      "OriX": 539,
+      "OriY": 2231,
+      "SpriteName": "Guitar_Head Sprite1",
+      "Width": 640
+    },
+    "Guitar_Head Sprite2": {
+      "CenterPosX": 1595,
+      "CenterPosY": 3146,
+      "Height": 955,
+      "KeyColor": 0,
+      "OriX": 1233,
+      "OriY": 2253,
+      "SpriteName": "Guitar_Head Sprite2",
+      "Width": 637
+    },
+    "Guitar_Head Sprite3": {
+      "CenterPosX": 1151,
+      "CenterPosY": 4219,
+      "Height": 960,
+      "KeyColor": 0,
+      "OriX": 793,
+      "OriY": 3316,
+      "SpriteName": "Guitar_Head Sprite3",
+      "Width": 621
+    },
+    "Guitar_LeftFoot Sprite1": {
+      "CenterPosX": 1136,
+      "CenterPosY": 120,
+      "Height": 268,
+      "KeyColor": 0,
+      "OriX": 1018,
+      "OriY": -5,
+      "SpriteName": "Guitar_LeftFoot Sprite1",
+      "Width": 422
+    },
+    "Guitar_LeftHand Sprite1": {
+      "CenterPosX": 1247,
+      "CenterPosY": 779,
+      "Height": 597,
+      "KeyColor": 0,
+      "OriX": 968,
+      "OriY": 714,
+      "SpriteName": "Guitar_LeftHand Sprite1",
+      "Width": 528
+    },
+    "Guitar_LeftLowerArm Sprite1": {
+      "CenterPosX": 1560,
+      "CenterPosY": 7,
+      "Height": 277,
+      "KeyColor": 0,
+      "OriX": 1482,
+      "OriY": -4,
+      "SpriteName": "Guitar_LeftLowerArm Sprite1",
+      "Width": 105
+    },
+    "Guitar_LeftLowerLeg Sprite1": {
+      "CenterPosX": 2037,
+      "CenterPosY": 443,
+      "Height": 308,
+      "KeyColor": 0,
+      "OriX": 1942,
+      "OriY": 391,
+      "SpriteName": "Guitar_LeftLowerLeg Sprite1",
+      "Width": 184
+    },
+    "Guitar_LeftTiptoe Sprite1": {
+      "CenterPosX": 1101,
+      "CenterPosY": 508,
+      "Height": 337,
+      "KeyColor": 0,
+      "OriX": 1015,
+      "OriY": 337,
+      "SpriteName": "Guitar_LeftTiptoe Sprite1",
+      "Width": 268
+    },
+    "Guitar_LeftUpperArm Sprite1": {
+      "CenterPosX": 1843,
+      "CenterPosY": 378,
+      "Height": 317,
+      "KeyColor": 0,
+      "OriX": 1787,
+      "OriY": 336,
+      "SpriteName": "Guitar_LeftUpperArm Sprite1",
+      "Width": 101
+    },
+    "Guitar_LeftUpperLeg Sprite1": {
+      "CenterPosX": 1934,
+      "CenterPosY": 1491,
+      "Height": 687,
+      "KeyColor": 0,
+      "OriX": 1832,
+      "OriY": 1410,
+      "SpriteName": "Guitar_LeftUpperLeg Sprite1",
+      "Width": 204
+    },
+    "Guitar_RightFoot Sprite1": {
+      "CenterPosX": 660,
+      "CenterPosY": 124,
+      "Height": 265,
+      "KeyColor": 0,
+      "OriX": 555,
+      "OriY": -1,
+      "SpriteName": "Guitar_RightFoot Sprite1",
+      "Width": 426
+    },
+    "Guitar_RightHand Sprite1": {
+      "CenterPosX": 1776,
+      "CenterPosY": 781,
+      "Height": 602,
+      "KeyColor": 0,
+      "OriX": 1499,
+      "OriY": 716,
+      "SpriteName": "Guitar_RightHand Sprite1",
+      "Width": 538
+    },
+    "Guitar_RightLowerArm Sprite1": {
+      "CenterPosX": 1660,
+      "CenterPosY": 13,
+      "Height": 275,
+      "KeyColor": 0,
+      "OriX": 1583,
+      "OriY": -2,
+      "SpriteName": "Guitar_RightLowerArm Sprite1",
+      "Width": 105
+    },
+    "Guitar_RightLowerLeg Sprite1": {
+      "CenterPosX": 2043,
+      "CenterPosY": 411,
+      "Height": 309,
+      "KeyColor": 0,
+      "OriX": 1950,
+      "OriY": 390,
+      "SpriteName": "Guitar_RightLowerLeg Sprite1",
+      "Width": 179
+    },
+    "Guitar_RightTiptoe Sprite1": {
+      "CenterPosX": 834,
+      "CenterPosY": 515,
+      "Height": 336,
+      "KeyColor": 0,
+      "OriX": 743,
+      "OriY": 338,
+      "SpriteName": "Guitar_RightTiptoe Sprite1",
+      "Width": 276
+    },
+    "Guitar_RightUpperArm Sprite1": {
+      "CenterPosX": 1744,
+      "CenterPosY": 380,
+      "Height": 315,
+      "KeyColor": 0,
+      "OriX": 1687,
+      "OriY": 335,
+      "SpriteName": "Guitar_RightUpperArm Sprite1",
+      "Width": 101
+    },
+    "Guitar_RightUpperLeg Sprite1": {
+      "CenterPosX": 2246,
+      "CenterPosY": 1483,
+      "Height": 683,
+      "KeyColor": 0,
+      "OriX": 2114,
+      "OriY": 1408,
+      "SpriteName": "Guitar_RightUpperLeg Sprite1",
+      "Width": 220
+    },
+    "Guitar_Waist Sprite1": {
+      "CenterPosX": 1491,
+      "CenterPosY": 443,
+      "Height": 348,
+      "KeyColor": 0,
+      "OriX": 1290,
+      "OriY": 337,
+      "SpriteName": "Guitar_Waist Sprite1",
+      "Width": 398
+    }
+  }
+}

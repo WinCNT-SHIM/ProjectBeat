@@ -1,0 +1,88 @@
+{
+
+  "ImageFilePath": "Data/Image/0035_Ef_Special.png",
+  "MetaFilePath": "Data/Json/0035_Ef_Special.json",
+  "SheetName": "0035_Ef_Special",
+  "SpriteSheet": {
+    "DRUM1": {
+      "CenterPosX": 225,
+      "CenterPosY": 225,
+      "Height": 404,
+      "KeyColor": 0,
+      "OriX": 82,
+      "OriY": 23,
+      "SpriteName": "DRUM1",
+      "Width": 286
+    },
+    "DRUM2": {
+      "CenterPosX": 621,
+      "CenterPosY": 227,
+      "Height": 407,
+      "KeyColor": 0,
+      "OriX": 394,
+      "OriY": 24,
+      "SpriteName": "DRUM2",
+      "Width": 454
+    },
+    "ELEC1": {
+      "CenterPosX": 1195,
+      "CenterPosY": 799,
+      "Height": 402,
+      "KeyColor": 0,
+      "OriX": 1024,
+      "OriY": 598,
+      "SpriteName": "ELEC1",
+      "Width": 342
+    },
+    "ELEC2": {
+      "CenterPosX": 1572,
+      "CenterPosY": 799,
+      "Height": 406,
+      "KeyColor": 0,
+      "OriX": 1353,
+      "OriY": 596,
+      "SpriteName": "ELEC2",
+      "Width": 439
+    },
+    "SYN1": {
+      "CenterPosX": 245,
+      "CenterPosY": 781,
+      "Height": 391,
+      "KeyColor": 0,
+      "OriX": 84,
+      "OriY": 586,
+      "SpriteName": "SYN1",
+      "Width": 322
+    },
+    "SYN2": {
+      "CenterPosX": 633,
+      "CenterPosY": 784,
+      "Height": 409,
+      "KeyColor": 0,
+      "OriX": 412,
+      "OriY": 580,
+      "SpriteName": "SYN2",
+      "Width": 442
+    },
+    "TAM1": {
+      "CenterPosX": 1215,
+      "CenterPosY": 234,
+      "Height": 400,
+      "KeyColor": 0,
+      "OriX": 1058,
+      "OriY": 34,
+      "SpriteName": "TAM1",
+      "Width": 315
+    },
+    "TAM2": {
+      "CenterPosX": 1599,
+      "CenterPosY": 237,
+      "Height": 406,
+      "KeyColor": 0,
+      "OriX": 1379,
+      "OriY": 34,
+      "SpriteName": "TAM2",
+      "Width": 440
+    }
+  }
+}

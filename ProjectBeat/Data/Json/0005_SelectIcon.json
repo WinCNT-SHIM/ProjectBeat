@@ -1,0 +1,68 @@
+{
+
+  "ImageFilePath": "Data/Image/0005_SelectIcon.png",
+  "MetaFilePath": "Data/Image/0005_SelectIcon.json",
+  "SheetName": "0005_SelectIcon_Sheet",
+  "SpriteSheet": {
+    "DRUM": {
+      "CenterPosX": 1016,
+      "CenterPosY": 1402,
+      "Height": 1273,
+      "KeyColor": 0,
+      "OriX": 177,
+      "OriY": 766,
+      "SpriteName": "DRUM",
+      "Width": 1679
+    },
+    "GUITAR": {
+      "CenterPosX": 4594,
+      "CenterPosY": 1185,
+      "Height": 2334,
+      "KeyColor": 0,
+      "OriX": 4228,
+      "OriY": 18,
+      "SpriteName": "GUITAR",
+      "Width": 732
+    },
+    "PIANO": {
+      "CenterPosX": 6628,
+      "CenterPosY": 1332,
+      "Height": 1263,
+      "KeyColor": 0,
+      "OriX": 5541,
+      "OriY": 701,
+      "SpriteName": "PIANO",
+      "Width": 2175
+    },
+    "TAMBOURINE": {
+      "CenterPosX": 2990,
+      "CenterPosY": 1386,
+      "Height": 1367,
+      "KeyColor": 0,
+      "OriX": 2170,
+      "OriY": 703,
+      "SpriteName": "TAMBOURINE",
+      "Width": 1640
+    },
+    "TRIANGLE": {
+      "CenterPosX": 9073,
+      "CenterPosY": 1214,
+      "Height": 1759,
+      "KeyColor": 0,
+      "OriX": 8279,
+      "OriY": 335,
+      "SpriteName": "TRIANGLE",
+      "Width": 1589
+    },
+    "VIOLIN": {
+      "CenterPosX": 10801,
+      "CenterPosY": 1197,
+      "Height": 2345,
+      "KeyColor": 0,
+      "OriX": 10340,
+      "OriY": 25,
+      "SpriteName": "VIOLIN",
+      "Width": 922
+    }
+  }
+}

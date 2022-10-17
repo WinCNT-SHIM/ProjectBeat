@@ -1,0 +1,1718 @@
+{
+	"AnimationSnaps": [
+		{
+			"SnapDatas": [
+				{
+					"ObjectName": "Waist",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					}
+				},
+				{
+					"ObjectName": "Body",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.9396926164627075,
+						"Y": 0.3420201539993286
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Body Sprite1"
+					}
+				},
+				{
+					"ObjectName": "Head",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": -115.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": -0.1736481785774231
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Head Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightUpperArm",
+					"PositionSnap": {
+						"X": -35.0,
+						"Y": -90.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "UpperArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightLowerArm",
+					"PositionSnap": {
+						"X": 5.0,
+						"Y": 35.0
+					},
+					"RotateSnap": {
+						"X": -0.3420201539993286,
+						"Y": -0.9396926164627075
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightHand",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 40.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Hand Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftUpperArm",
+					"PositionSnap": {
+						"X": 20.0,
+						"Y": -150.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": -0.1736481785774231
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "UpperArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftLowerArm",
+					"PositionSnap": {
+						"X": 5.0,
+						"Y": 35.0
+					},
+					"RotateSnap": {
+						"X": 0.9961947202682495,
+						"Y": -0.08715574443340302
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftHand",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 40.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Hand Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightUpperLeg",
+					"PositionSnap": {
+						"X": -20.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.9921751043466286,
+						"Y": 0.12485416418668897
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "RightUpperLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightLowerLeg",
+					"PositionSnap": {
+						"X": -5.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": 0.9184873467704002,
+						"Y": 0.3954503683430711
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightFoot",
+					"PositionSnap": {
+						"X": 0.295257568359375,
+						"Y": 50.95538330078125
+					},
+					"RotateSnap": {
+						"X": 0.9767462773097199,
+						"Y": -0.21439848358046718
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightTiptoe",
+					"PositionSnap": {
+						"X": 60.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite2"
+					}
+				},
+				{
+					"ObjectName": "LeftUpperLeg",
+					"PositionSnap": {
+						"X": 20.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.7660444378852844,
+						"Y": -0.6427876353263855
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LeftUpperLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftLowerLeg",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": 0.6427876353263855,
+						"Y": 0.7660444378852844
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftFoot",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 50.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": 0.1736481785774231
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftTiptoe",
+					"PositionSnap": {
+						"X": 60.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": -0.1736481785774231
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite2"
+					}
+				},
+				{ "ObjectName": "Character" }
+			],
+			"Time": 0.0
+		},
+		{
+			"SnapDatas": [
+				{
+					"ObjectName": "Waist",
+					"PositionSnap": {
+						"X": 100.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					}
+				},
+				{
+					"ObjectName": "Body",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.8660253882408142,
+						"Y": 0.5
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Body Sprite1"
+					}
+				},
+				{
+					"ObjectName": "Head",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": -115.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": -0.1736481785774231
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Head Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightUpperArm",
+					"PositionSnap": {
+						"X": -35.0,
+						"Y": -90.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "UpperArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightLowerArm",
+					"PositionSnap": {
+						"X": 5.0,
+						"Y": 35.0
+					},
+					"RotateSnap": {
+						"X": -0.3420201539993286,
+						"Y": -0.9396926164627075
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightHand",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 40.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Hand Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftUpperArm",
+					"PositionSnap": {
+						"X": 20.0,
+						"Y": -150.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": -0.1736481785774231
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "UpperArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftLowerArm",
+					"PositionSnap": {
+						"X": 5.0,
+						"Y": 35.0
+					},
+					"RotateSnap": {
+						"X": 0.9961947202682495,
+						"Y": -0.08715574443340302
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftHand",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 40.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Hand Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightUpperLeg",
+					"PositionSnap": {
+						"X": -20.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.8660253882408142,
+						"Y": 0.5
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "RightUpperLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightLowerLeg",
+					"PositionSnap": {
+						"X": -5.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": -0.1736481785774231,
+						"Y": 0.9848077297210693
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightFoot",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 50.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightTiptoe",
+					"PositionSnap": {
+						"X": 60.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite2"
+					}
+				},
+				{
+					"ObjectName": "LeftUpperLeg",
+					"PositionSnap": {
+						"X": 20.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.9729653862014194,
+						"Y": -0.23095098452685356
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LeftUpperLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftLowerLeg",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": 0.7757133037027389,
+						"Y": 0.6310854700106652
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftFoot",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 50.0
+					},
+					"RotateSnap": {
+						"X": 0.904050209561969,
+						"Y": -0.4274262726961924
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftTiptoe",
+					"PositionSnap": {
+						"X": 60.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": -0.1736481785774231
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite2"
+					}
+				},
+				{ "ObjectName": "Character" }
+			],
+			"Time": 0.25699999928474426
+		},
+		{
+			"SnapDatas": [
+				{ "ObjectName": "Waist" },
+				{ "ObjectName": "Body" },
+				{ "ObjectName": "Head" },
+				{ "ObjectName": "RightUpperArm" },
+				{ "ObjectName": "RightLowerArm" },
+				{ "ObjectName": "RightHand" },
+				{ "ObjectName": "LeftUpperArm" },
+				{ "ObjectName": "LeftLowerArm" },
+				{ "ObjectName": "LeftHand" },
+				{ "ObjectName": "RightUpperLeg" },
+				{ "ObjectName": "RightLowerLeg" },
+				{ "ObjectName": "RightFoot" },
+				{ "ObjectName": "RightTiptoe" },
+				{ "ObjectName": "LeftUpperLeg" },
+				{ "ObjectName": "LeftLowerLeg" },
+				{ "ObjectName": "LeftFoot" },
+				{ "ObjectName": "LeftTiptoe" },
+				{
+					"EventSnap": {
+						"Component": "AnimEventComponent",
+						"Event": "DmgOn"
+					},
+					"ObjectName": "Character"
+				}
+			],
+			"Time": 0.257099986076355
+		},
+		{
+			"SnapDatas": [
+				{
+					"ObjectName": "Waist",
+					"PositionSnap": {
+						"X": 150.0,
+						"Y": 80.0
+					},
+					"RotateSnap": {
+						"X": 0.7660444378852844,
+						"Y": 0.6427876353263855
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					}
+				},
+				{
+					"ObjectName": "Body",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.8660253882408142,
+						"Y": 0.5
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Body Sprite1"
+					}
+				},
+				{
+					"ObjectName": "Head",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": -115.0
+					},
+					"RotateSnap": {
+						"X": 0.7660444378852844,
+						"Y": -0.6427876353263855
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Head Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightUpperArm",
+					"PositionSnap": {
+						"X": -20.0,
+						"Y": -90.0
+					},
+					"RotateSnap": {
+						"X": -0.8660253882408142,
+						"Y": -0.5
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "UpperArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightLowerArm",
+					"PositionSnap": {
+						"X": 5.0,
+						"Y": 45.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightHand",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 45.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Hand Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftUpperArm",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": -100.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": -0.17364831268787384
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "UpperArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftLowerArm",
+					"PositionSnap": {
+						"X": 5.0,
+						"Y": 35.0
+					},
+					"RotateSnap": {
+						"X": 0.6427876353263855,
+						"Y": -0.7660444378852844
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftHand",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 40.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Hand Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightUpperLeg",
+					"PositionSnap": {
+						"X": -20.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.8660253882408142,
+						"Y": 0.5
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "RightUpperLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightLowerLeg",
+					"PositionSnap": {
+						"X": -5.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": -0.1736481785774231,
+						"Y": 0.9848077297210693
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightFoot",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 50.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightTiptoe",
+					"PositionSnap": {
+						"X": 60.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite2"
+					}
+				},
+				{
+					"ObjectName": "LeftUpperLeg",
+					"PositionSnap": {
+						"X": 19.357177734375,
+						"Y": -0.766021728515625
+					},
+					"RotateSnap": {
+						"X": 0.597208588659335,
+						"Y": -0.8020859689780923
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LeftUpperLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftLowerLeg",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": 0.3009097736981999,
+						"Y": 0.9536526139495966
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftFoot",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 50.0
+					},
+					"RotateSnap": {
+						"X": 0.9830086522265632,
+						"Y": -0.1835592265393262
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftTiptoe",
+					"PositionSnap": {
+						"X": 60.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": -0.1736481785774231
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite2"
+					}
+				},
+				{ "ObjectName": "Character" }
+			],
+			"Time": 0.32499998807907104
+		},
+		{
+			"SnapDatas": [
+				{
+					"ObjectName": "Waist",
+					"PositionSnap": {
+						"X": 100.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					}
+				},
+				{
+					"ObjectName": "Body",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.8660253882408142,
+						"Y": 0.5
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Body Sprite1"
+					}
+				},
+				{
+					"ObjectName": "Head",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": -115.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": -0.1736481785774231
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Head Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightUpperArm",
+					"PositionSnap": {
+						"X": -35.0,
+						"Y": -90.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "UpperArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightLowerArm",
+					"PositionSnap": {
+						"X": 5.0,
+						"Y": 35.0
+					},
+					"RotateSnap": {
+						"X": -0.3420201539993286,
+						"Y": -0.9396926164627075
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightHand",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 40.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Hand Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftUpperArm",
+					"PositionSnap": {
+						"X": 20.0,
+						"Y": -150.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": -0.1736481785774231
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "UpperArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftLowerArm",
+					"PositionSnap": {
+						"X": 5.0,
+						"Y": 35.0
+					},
+					"RotateSnap": {
+						"X": 0.9961947202682495,
+						"Y": -0.08715574443340302
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftHand",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 40.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Hand Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightUpperLeg",
+					"PositionSnap": {
+						"X": -20.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.8660253882408142,
+						"Y": 0.5
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "RightUpperLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightLowerLeg",
+					"PositionSnap": {
+						"X": -5.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": -0.1736481785774231,
+						"Y": 0.9848077297210693
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightFoot",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 50.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightTiptoe",
+					"PositionSnap": {
+						"X": 60.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite2"
+					}
+				},
+				{
+					"ObjectName": "LeftUpperLeg",
+					"PositionSnap": {
+						"X": 20.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.9729653596878052,
+						"Y": -0.2309509813785553
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LeftUpperLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftLowerLeg",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": 0.775713324546814,
+						"Y": 0.6310854554176331
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftFoot",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 50.0
+					},
+					"RotateSnap": {
+						"X": 0.9040502309799194,
+						"Y": -0.427426278591156
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftTiptoe",
+					"PositionSnap": {
+						"X": 60.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": -0.1736481785774231
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite2"
+					}
+				},
+				{ "ObjectName": "Character" }
+			],
+			"Time": 0.800000011920929
+		},
+		{
+			"SnapDatas": [
+				{ "ObjectName": "Waist" },
+				{ "ObjectName": "Body" },
+				{ "ObjectName": "Head" },
+				{ "ObjectName": "RightUpperArm" },
+				{ "ObjectName": "RightLowerArm" },
+				{ "ObjectName": "RightHand" },
+				{ "ObjectName": "LeftUpperArm" },
+				{ "ObjectName": "LeftLowerArm" },
+				{ "ObjectName": "LeftHand" },
+				{ "ObjectName": "RightUpperLeg" },
+				{ "ObjectName": "RightLowerLeg" },
+				{ "ObjectName": "RightFoot" },
+				{ "ObjectName": "RightTiptoe" },
+				{ "ObjectName": "LeftUpperLeg" },
+				{ "ObjectName": "LeftLowerLeg" },
+				{ "ObjectName": "LeftFoot" },
+				{ "ObjectName": "LeftTiptoe" },
+				{
+					"EventSnap": {
+						"Component": "AnimEventComponent",
+						"Event": "InputOff"
+					},
+					"ObjectName": "Character"
+				}
+			],
+			"Time": 0.9833329916000366
+		},
+		{
+			"SnapDatas": [
+				{ "ObjectName": "Waist" },
+				{ "ObjectName": "Body" },
+				{ "ObjectName": "Head" },
+				{ "ObjectName": "RightUpperArm" },
+				{ "ObjectName": "RightLowerArm" },
+				{ "ObjectName": "RightHand" },
+				{ "ObjectName": "LeftUpperArm" },
+				{ "ObjectName": "LeftLowerArm" },
+				{ "ObjectName": "LeftHand" },
+				{ "ObjectName": "RightUpperLeg" },
+				{ "ObjectName": "RightLowerLeg" },
+				{ "ObjectName": "RightFoot" },
+				{ "ObjectName": "RightTiptoe" },
+				{ "ObjectName": "LeftUpperLeg" },
+				{ "ObjectName": "LeftLowerLeg" },
+				{ "ObjectName": "LeftFoot" },
+				{ "ObjectName": "LeftTiptoe" },
+				{
+					"EventSnap": {
+						"Component": "AnimEventComponent",
+						"Event": "EndAnim"
+					},
+					"ObjectName": "Character"
+				}
+			],
+			"Time": 0.9998999834060669
+		},
+		{
+			"SnapDatas": [
+				{
+					"ObjectName": "Waist",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					}
+				},
+				{
+					"ObjectName": "Body",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.9396926164627075,
+						"Y": 0.3420201539993286
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Body Sprite1"
+					}
+				},
+				{
+					"ObjectName": "Head",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": -115.0
+					},
+					"RotateSnap": {
+						"X": 0.9396926164627075,
+						"Y": -0.3420201539993286
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Head Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightUpperArm",
+					"PositionSnap": {
+						"X": -25.0,
+						"Y": -90.0
+					},
+					"RotateSnap": {
+						"X": 0.9659258127212524,
+						"Y": -0.258819043636322
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "UpperArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightLowerArm",
+					"PositionSnap": {
+						"X": 5.0,
+						"Y": 35.0
+					},
+					"RotateSnap": {
+						"X": -0.3420201539993286,
+						"Y": -0.9396926164627075
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightHand",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 40.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Hand Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftUpperArm",
+					"PositionSnap": {
+						"X": 20.0,
+						"Y": -90.0
+					},
+					"RotateSnap": {
+						"X": 0.7660444378852844,
+						"Y": -0.6427876353263855
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "UpperArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftLowerArm",
+					"PositionSnap": {
+						"X": 5.0,
+						"Y": 35.0
+					},
+					"RotateSnap": {
+						"X": 0.08715574443340302,
+						"Y": -0.9961947202682495
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerArm Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftHand",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 40.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Hand Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightUpperLeg",
+					"PositionSnap": {
+						"X": -20.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "RightUpperLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightLowerLeg",
+					"PositionSnap": {
+						"X": -5.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": 0.4353821243451399,
+						"Y": 0.9002457474493912
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightFoot",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 50.0
+					},
+					"RotateSnap": {
+						"X": 0.8587155079743823,
+						"Y": -0.5124526088959822
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite1"
+					}
+				},
+				{
+					"ObjectName": "RightTiptoe",
+					"PositionSnap": {
+						"X": 60.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 1.0,
+						"Y": 0.0
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite2"
+					}
+				},
+				{
+					"ObjectName": "LeftUpperLeg",
+					"PositionSnap": {
+						"X": 20.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.7660444378852844,
+						"Y": -0.6427876353263855
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LeftUpperLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftLowerLeg",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 100.0
+					},
+					"RotateSnap": {
+						"X": 0.6427876353263855,
+						"Y": 0.7660444378852844
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "LowerLeg Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftFoot",
+					"PositionSnap": {
+						"X": 0.0,
+						"Y": 50.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": 0.1736481785774231
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite1"
+					}
+				},
+				{
+					"ObjectName": "LeftTiptoe",
+					"PositionSnap": {
+						"X": 60.0,
+						"Y": 0.0
+					},
+					"RotateSnap": {
+						"X": 0.9848077297210693,
+						"Y": -0.1736481785774231
+					},
+					"ScaleSnap": {
+						"X": 1.0,
+						"Y": 1.0
+					},
+					"SpriteSnap": {
+						"SheetName": "Test Sheet",
+						"SpriteName": "Foot Sprite2"
+					}
+				},
+				{ "ObjectName": "Character" }
+			],
+			"Time": 1.0
+		}
+	],
+	"Name": "PP",
+	"Loop": false
+}

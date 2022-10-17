@@ -1,0 +1,395 @@
+{
+	"BooleanParameter": {
+		"Run": false,
+		"Back": false,
+		"Falling": false,
+		"Death": false,
+		"Guard": false
+	},
+	"IntParameter": {
+
+	},
+	"FloatParameter": {
+
+	},
+	"TriggerParameter": {
+		"Hit": false,
+		"Kick": false,
+		"Punch": false,
+		"Jump": false
+	},
+	"Name": "HumanAnimatorController",
+	"Nodes": {
+		"Run": {
+			"ClipName": "Run",
+			"Links": [
+				{
+					"Condition": 0,
+					"LinkedNode": "idle",
+					"ParameterName": "Run",
+					"Type": 2,
+					"Value": false
+				},
+				{
+					"Condition": 0,
+					"LinkedNode": "Jump",
+					"ParameterName": "Jump",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "P",
+					"ParameterName": "Punch",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "K",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+		"Backstep": {
+			"ClipName": "Backstep",
+			"Links": [
+				{
+					"Condition": 0,
+					"LinkedNode": "idle",
+					"ParameterName": "Back",
+					"Type": 2,
+					"Value": false
+				},
+				{
+					"Condition": 0,
+					"LinkedNode": "Jump",
+					"ParameterName": "Jump",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "P",
+					"ParameterName": "Punch",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "K",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+		"idle": {
+			"ClipName": "idle",
+			"Links": [
+				{
+					"Condition": 0,
+					"LinkedNode": "Run",
+					"ParameterName": "Run",
+					"Type": 2,
+					"Value": true
+				},
+				{
+					"Condition": 0,
+					"LinkedNode": "Backstep",
+					"ParameterName": "Back",
+					"Type": 2,
+					"Value": true
+				},
+				{
+					"Condition": 0,
+					"LinkedNode": "Jump",
+					"ParameterName": "Jump",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "P",
+					"ParameterName": "Punch",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "K",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+
+		"Jump": {
+			"ClipName": "Jump",
+			"Links": [
+				{
+					"LinkedNode": "Falling",
+					"Type": 4
+				}
+			]
+		},
+		"Falling": {
+			"ClipName": "Falling",
+			"Links": [
+				{
+					"Condition": 0,
+					"LinkedNode": "idle",
+					"ParameterName": "Falling",
+					"Type": 2,
+					"Value": false
+				}
+			]
+		},
+
+
+		"P": {
+			"ClipName": "P",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PP",
+					"ParameterName": "Punch",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "PK",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+		"PP": {
+			"ClipName": "PP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PPP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+		"PPP": {
+			"ClipName": "PPP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PPPP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+		"PPPP": {
+			"ClipName": "PPPP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PPPPP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+		"PPPPP": {
+			"ClipName": "PPPPP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				}
+			]
+		},
+
+
+		"PK": {
+			"ClipName": "PK",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PKP",
+					"ParameterName": "Punch",
+					"Type": 3
+				},
+				{
+					"LinkedNode": "PKK",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+
+
+		"PKP": {
+			"ClipName": "PKP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PKPP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+
+		"PKPP": {
+			"ClipName": "PKPP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PKPPK",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+		"PKPPK": {
+			"ClipName": "PKPPK",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				}
+			]
+		},
+
+		"PKK": {
+			"ClipName": "PKK",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PKKP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+
+		"PKKP": {
+			"ClipName": "PKKP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "PKKPK",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+		"PKKPK": {
+			"ClipName": "PKKPK",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				}
+			]
+		},
+		"K": {
+			"ClipName": "K",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "KP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+		"KP": {
+			"ClipName": "KP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "KPP",
+					"ParameterName": "Punch",
+					"Type": 3
+				}
+			]
+		},
+		"KPP": {
+			"ClipName": "KPP",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "KPPK",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+		"KPPK": {
+			"ClipName": "KPPK",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				},
+				{
+					"LinkedNode": "KPPKK",
+					"ParameterName": "Kick",
+					"Type": 3
+				}
+			]
+		},
+		"KPPKK": {
+			"ClipName": "KPPKK",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				}
+			]
+		},
+
+		"hit": {
+			"ClipName": "hit",
+			"Links": [
+				{
+					"LinkedNode": "idle",
+					"Type": 4
+				}
+			]
+		}
+	},
+
+	"AnyStateNode": {
+		"ClipName": "AnyStateNode",
+		"Links": [
+			{
+				"LinkedNode": "hit",
+				"ParameterName": "hit",
+				"Type": 3
+			}
+		]
+	}
+}

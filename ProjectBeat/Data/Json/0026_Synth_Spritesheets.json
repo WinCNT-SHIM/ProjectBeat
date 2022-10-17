@@ -1,0 +1,198 @@
+{
+
+  "ImageFilePath": "Data/Image/0026_Synth_Spritesheets.png",
+  "MetaFilePath": "Data/Json/0026_Synth_Spritesheets.json",
+  "SheetName": "0026_Synth_Spritesheets",
+  "SpriteSheet": {
+    "Synth_Body Sprite1": {
+      "CenterPosX": 1269,
+      "CenterPosY": 2344,
+      "Height": 559,
+      "KeyColor": 0,
+      "OriX": 1070,
+      "OriY": 1725,
+      "SpriteName": "Synth_Body Sprite1",
+      "Width": 399
+    },
+    "Synth_Head Sprite1": {
+      "CenterPosX": 1521,
+      "CenterPosY": 1603,
+      "Height": 627,
+      "KeyColor": 0,
+      "OriX": 992,
+      "OriY": 998,
+      "SpriteName": "Synth_Head Sprite1",
+      "Width": 1008
+    },
+    "Synth_Head Sprite2": {
+      "CenterPosX": 525,
+      "CenterPosY": 1591,
+      "Height": 615,
+      "KeyColor": 0,
+      "OriX": -1,
+      "OriY": 998,
+      "SpriteName": "Synth_Head Sprite2",
+      "Width": 994
+    },
+    "Synth_Head Sprite3": {
+      "CenterPosX": 537,
+      "CenterPosY": 2217,
+      "Height": 619,
+      "KeyColor": 0,
+      "OriX": -3,
+      "OriY": 1618,
+      "SpriteName": "Synth_Head Sprite3",
+      "Width": 1003
+    },
+    "Synth_LeftFoot Sprite1": {
+      "CenterPosX": 179,
+      "CenterPosY": 2424,
+      "Height": 299,
+      "KeyColor": 0,
+      "OriX": 90,
+      "OriY": 2277,
+      "SpriteName": "Synth_LeftFoot Sprite1",
+      "Width": 463
+    },
+    "Synth_LeftHand Sprite1": {
+      "CenterPosX": 789,
+      "CenterPosY": 397,
+      "Height": 656,
+      "KeyColor": 0,
+      "OriX": 524,
+      "OriY": 317,
+      "SpriteName": "Synth_LeftHand Sprite1",
+      "Width": 568
+    },
+    "Synth_LeftLowerArm Sprite1": {
+      "CenterPosX": 1923,
+      "CenterPosY": 425,
+      "Height": 366,
+      "KeyColor": 0,
+      "OriX": 1838,
+      "OriY": 379,
+      "SpriteName": "Synth_LeftLowerArm Sprite1",
+      "Width": 129
+    },
+    "Synth_LeftLowerLeg Sprite1": {
+      "CenterPosX": 164,
+      "CenterPosY": 417,
+      "Height": 502,
+      "KeyColor": 0,
+      "OriX": 58,
+      "OriY": 337,
+      "SpriteName": "Synth_LeftLowerLeg Sprite1",
+      "Width": 214
+    },
+    "Synth_LeftTiptoe Sprite1": {
+      "CenterPosX": 1321,
+      "CenterPosY": 152,
+      "Height": 291,
+      "KeyColor": 0,
+      "OriX": 1240,
+      "OriY": 20,
+      "SpriteName": "Synth_LeftTiptoe Sprite1",
+      "Width": 308
+    },
+    "Synth_LeftUpperArm Sprite1": {
+      "CenterPosX": 413,
+      "CenterPosY": 34,
+      "Height": 278,
+      "KeyColor": 0,
+      "OriX": 361,
+      "OriY": -2,
+      "SpriteName": "Synth_LeftUpperArm Sprite1",
+      "Width": 114
+    },
+    "Synth_LeftUpperLeg Sprite1": {
+      "CenterPosX": 1615,
+      "CenterPosY": 1793,
+      "Height": 587,
+      "KeyColor": 0,
+      "OriX": 1528,
+      "OriY": 1703,
+      "SpriteName": "Synth_LeftUpperLeg Sprite1",
+      "Width": 172
+    },
+    "Synth_RightFoot Sprite1": {
+      "CenterPosX": 662,
+      "CenterPosY": 2400,
+      "Height": 300,
+      "KeyColor": 0,
+      "OriX": 555,
+      "OriY": 2279,
+      "SpriteName": "Synth_RightFoot Sprite1",
+      "Width": 464
+    },
+    "Synth_RightHand Sprite1": {
+      "CenterPosX": 1388,
+      "CenterPosY": 390,
+      "Height": 649,
+      "KeyColor": 0,
+      "OriX": 1098,
+      "OriY": 319,
+      "SpriteName": "Synth_RightHand Sprite1",
+      "Width": 566
+    },
+    "Synth_RightLowerArm Sprite1": {
+      "CenterPosX": 1762,
+      "CenterPosY": 439,
+      "Height": 363,
+      "KeyColor": 0,
+      "OriX": 1676,
+      "OriY": 386,
+      "SpriteName": "Synth_RightLowerArm Sprite1",
+      "Width": 130
+    },
+    "Synth_RightLowerLeg Sprite1": {
+      "CenterPosX": 385,
+      "CenterPosY": 405,
+      "Height": 499,
+      "KeyColor": 0,
+      "OriX": 276,
+      "OriY": 335,
+      "SpriteName": "Synth_RightLowerLeg Sprite1",
+      "Width": 218
+    },
+    "Synth_RightTiptoe Sprite1": {
+      "CenterPosX": 1636,
+      "CenterPosY": 151,
+      "Height": 290,
+      "KeyColor": 0,
+      "OriX": 1559,
+      "OriY": 23,
+      "SpriteName": "Synth_RightTiptoe Sprite1",
+      "Width": 309
+    },
+    "Synth_RightUpperArm Sprite1": {
+      "CenterPosX": 533,
+      "CenterPosY": 39,
+      "Height": 274,
+      "KeyColor": 0,
+      "OriX": 478,
+      "OriY": -2,
+      "SpriteName": "Synth_RightUpperArm Sprite1",
+      "Width": 109
+    },
+    "Synth_RightUpperLeg Sprite1": {
+      "CenterPosX": 1778,
+      "CenterPosY": 1784,
+      "Height": 585,
+      "KeyColor": 0,
+      "OriX": 1698,
+      "OriY": 1702,
+      "SpriteName": "Synth_RightUpperLeg Sprite1",
+      "Width": 172
+    },
+    "Synth_Waist Sprite1": {
+      "CenterPosX": 198,
+      "CenterPosY": 202,
+      "Height": 266,
+      "KeyColor": 0,
+      "OriX": 30,
+      "OriY": -5,
+      "SpriteName": "Synth_Waist Sprite1",
+      "Width": 304
+    }
+  }
+}

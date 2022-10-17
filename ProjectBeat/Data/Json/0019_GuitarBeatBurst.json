@@ -1,0 +1,48 @@
+{
+
+  "ImageFilePath": "Data\\Image\\0019_GuitarBeatBurst.png",
+  "MetaFilePath": "Data\\Json\\0019_GuitarBeatBurst.json",
+  "SheetName": "0019_GuitarBeatBurst",
+  "SpriteSheet": {
+    "IDLE": {
+      "CenterPosX": 2880,
+      "CenterPosY": 540,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 1920,
+      "OriY": 0,
+      "SpriteName": "IDLE",
+      "Width": 1920
+    },
+    "LEFT": {
+      "CenterPosX": 960,
+      "CenterPosY": 1620,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 0,
+      "OriY": 1080,
+      "SpriteName": "LEFT",
+      "Width": 1920
+    },
+    "RIGHT": {
+      "CenterPosX": 960,
+      "CenterPosY": 540,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 0,
+      "OriY": 0,
+      "SpriteName": "RIGHT",
+      "Width": 1920
+    },
+    "MIDDLE": {
+      "CenterPosX": 2880,
+      "CenterPosY": 1620,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 1920,
+      "OriY": 1080,
+      "SpriteName": "MIDDLE",
+      "Width": 1920
+    }
+  }
+}

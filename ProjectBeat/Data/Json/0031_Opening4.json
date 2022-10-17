@@ -1,0 +1,58 @@
+{
+
+  "ImageFilePath": "Data/Image/0031_Opening4.png",
+  "MetaFilePath": "Data/Json/0031_Opening4.json",
+  "SheetName": "0031_Opening4",
+  "SpriteSheet": {
+    "1": {
+      "CenterPosX": 1125,
+      "CenterPosY": 741,
+      "Height": 1082,
+      "KeyColor": 0,
+      "OriX": 165,
+      "OriY": 200,
+      "SpriteName": "1",
+      "Width": 1920
+    },
+    "2": {
+      "CenterPosX": 1127,
+      "CenterPosY": 2053,
+      "Height": 1079,
+      "KeyColor": 0,
+      "OriX": 167,
+      "OriY": 1514,
+      "SpriteName": "2",
+      "Width": 1920
+    },
+    "3": {
+      "CenterPosX": 1129,
+      "CenterPosY": 3370,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 169,
+      "OriY": 2830,
+      "SpriteName": "3",
+      "Width": 1921
+    },
+    "4": {
+      "CenterPosX": 1129,
+      "CenterPosY": 3370,
+      "Height": 1080,
+      "KeyColor": 0,
+      "OriX": 169,
+      "OriY": 2830,
+      "SpriteName": "4",
+      "Width": 1921
+    },
+    "BUTTON": {
+      "CenterPosX": 1987,
+      "CenterPosY": 4077,
+      "Height": 108,
+      "KeyColor": 0,
+      "OriX": 1932,
+      "OriY": 4023,
+      "SpriteName": "BUTTON",
+      "Width": 110
+    }
+  }
+}

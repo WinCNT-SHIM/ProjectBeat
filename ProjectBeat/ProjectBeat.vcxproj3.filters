@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{e41ad3ba-5ce4-4f0d-93b3-6109136baab0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{73f45f5f-a783-4203-aa7d-398066f32778}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\BaseObject">
+      <UniqueIdentifier>{a2a2e128-c9e5-46c6-a043-d0dca48315f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\TEST">
+      <UniqueIdentifier>{1e2416fc-e654-442a-856c-1781f23a0c71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager">
+      <UniqueIdentifier>{86d0e11e-cac5-46f5-8b73-e26470cd5dbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\ObjectManager">
+      <UniqueIdentifier>{217bd3c4-ef71-46f9-b519-fa4c0f382e37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\SceneManager">
+      <UniqueIdentifier>{4533b9b3-164e-41de-8510-3e892993e70c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components">
+      <UniqueIdentifier>{df61d70b-4226-47ea-a0a8-5db940eb9e51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GamePCH">
+      <UniqueIdentifier>{b0f29ea4-18bf-449d-bb4f-0c7ded9f1c39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Character">
+      <UniqueIdentifier>{92281447-6dc6-457f-ad0d-02772afad5fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\CharacterComponents">
+      <UniqueIdentifier>{dd181461-9fec-478f-8260-c767be565d37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\TEST">
+      <UniqueIdentifier>{ac39f4ad-ebd2-4ceb-b1b1-9fb3756ae5c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\BaseScene">
+      <UniqueIdentifier>{f9e5a522-2fe3-4ff3-9fbc-44d7215d2a7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\BaseObject\CCObject">
+      <UniqueIdentifier>{f631844c-abf9-4cc2-91a4-b89b0ea8bd88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\BaseObject\OBBObject">
+      <UniqueIdentifier>{4939061a-1ae1-4298-b9cf-f1cb4cef4c45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\BaseObject\RectObject">
+      <UniqueIdentifier>{77dc9cbe-4705-4359-ae6e-ed5d14c781cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\BaseObject\CameraObject">
+      <UniqueIdentifier>{e79e6ee9-b071-4958-9026-7e27adfdfcf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00_GameProcess">
+      <UniqueIdentifier>{8236f54c-d628-4453-b9d3-0e7c78a99d2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00_WinMain">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Components\CharacterComponents\Action">
+      <UniqueIdentifier>{fd2c3aec-b373-4952-8367-faa64e523ba3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\CharacterComponents\Move">
+      <UniqueIdentifier>{c20f3d20-cfaf-43f0-a599-110fa52a0abb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\CharacterComponents\PlayerComponent">
+      <UniqueIdentifier>{3c7dd44a-3f7c-498e-97ea-6dfcd23f0feb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\CharacterComponents\State">
+      <UniqueIdentifier>{711e5b78-0b62-4fe3-a382-8a9985591d40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\BaseObject\SpriteObject">
+      <UniqueIdentifier>{f9bc8472-8f70-487c-a344-60e3637e1a99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\SeletionScene">
+      <UniqueIdentifier>{2eff652e-057e-421c-8311-ba7215bc696e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\SeletionScene\SeleteObject">
+      <UniqueIdentifier>{7953b2b4-e818-4fec-ac74-cb980d781fe5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\SelectionScene">
+      <UniqueIdentifier>{f67dfe9c-b706-4b58-b3a3-a936b472583e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\CharacterComponents\Command">
+      <UniqueIdentifier>{7bc09848-116b-485a-b6a0-71bb2757de15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\01_SelectScene">
+      <UniqueIdentifier>{7c38bc7e-3809-4c49-a7ca-60e94955f156}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\02_InGame">
+      <UniqueIdentifier>{3d17bf78-0449-404f-95d3-98cde09ebbe3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\00_Intro">
+      <UniqueIdentifier>{4fdabc6d-4e30-46ec-b6b4-70bdae55e6cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Particle">
+      <UniqueIdentifier>{b0ed8920-ec99-41c8-9f73-49ef7ed4f417}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Particle\00_Effect">
+      <UniqueIdentifier>{c2d392ac-9731-4405-8ed4-79be1059f9e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Particle">
+      <UniqueIdentifier>{3127bc3f-a24b-4038-957a-e18c96044a10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99_Data">
+      <UniqueIdentifier>{555f1bdb-0075-475d-93c6-4dc4d3214f0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\BaseObject\UIObject">
+      <UniqueIdentifier>{82cbc39a-e5b4-462f-8314-f61bfb5de687}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\InGameUIManager">
+      <UniqueIdentifier>{22527592-408a-4401-b207-8d28630ed229}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\CharacterComponents\HitDetect">
+      <UniqueIdentifier>{b691c524-681e-417b-b9fe-f0cfad18f261}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\05_BeatBurst">
+      <UniqueIdentifier>{9e839fee-1959-4369-a1e7-dfccaa00a76f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\BeatBurstScene">
+      <UniqueIdentifier>{b8b35204-8253-488f-b1a5-42dd534c0a50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\GameManager">
+      <UniqueIdentifier>{1e3f3cee-6634-4e87-bfab-3f17c5231d45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\CharacterComponents\AnimEvent">
+      <UniqueIdentifier>{b5e35df2-1122-4dfe-b11e-fce6ffb396f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\EventSystem">
+      <UniqueIdentifier>{2c6ab5f7-e037-49f7-8ccf-56689386e33d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\CharacterComponents\Debug">
+      <UniqueIdentifier>{bec76c85-99ed-4673-984f-d144632fa27b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\SpecialPanel">
+      <UniqueIdentifier>{3c1318a3-c433-4f11-84fd-be1a75e6d3ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\07_Ending">
+      <UniqueIdentifier>{e5bea161-f93e-418c-a39e-6144084ad542}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Debug">
+      <UniqueIdentifier>{046fb037-33ce-4756-b62d-952b3bab0ae9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Intro">
+      <UniqueIdentifier>{cb4d7de7-cd9d-4ee4-826d-56e501076b83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\PrevScence">
+      <UniqueIdentifier>{f065cb8c-0152-4ffc-b062-343b43d06ed8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\PrevScence\03_Credit">
+      <UniqueIdentifier>{ce90bcd5-37b5-464d-9f09-cb88d11fe98d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\PrevScence\04_ComboList">
+      <UniqueIdentifier>{51e7ee80-8bdb-4daa-bcfd-d4e14dad187f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\CharacterComponents\CharacterCtrl">
+      <UniqueIdentifier>{fc4fb35a-ec1f-4477-af77-62f522fd3e97}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WinMain.cpp">
+      <Filter>00_WinMain</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>Manager\ObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameProcess.cpp">
+      <Filter>00_GameProcess</Filter>
+    </ClCompile>
+    <ClCompile Include="TESTHuman.cpp">
+      <Filter>Object\TEST</Filter>
+    </ClCompile>
+    <ClCompile Include="TestCamera.cpp">
+      <Filter>Object\TEST</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Manager\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="GamePCH.cpp">
+      <Filter>GamePCH</Filter>
+    </ClCompile>
+    <ClCompile Include="testPlayer.cpp">
+      <Filter>Object\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="TestScene.cpp">
+      <Filter>Scene\TEST</Filter>
+    </ClCompile>
+    <ClCompile Include="TestScene_SSS.cpp">
+      <Filter>Scene\TEST</Filter>
+    </ClCompile>
+    <ClCompile Include="TestScene2.cpp">
+      <Filter>Scene\TEST</Filter>
+    </ClCompile>
+    <ClCompile Include="CWScene.cpp">
+      <Filter>Scene\TEST</Filter>
+    </ClCompile>
+    <ClCompile Include="IScene.cpp">
+      <Filter>Scene\BaseScene</Filter>
+    </ClCompile>
+    <ClCompile Include="OBBObject.cpp">
+      <Filter>Object\BaseObject\OBBObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CircleObject.cpp">
+      <Filter>Object\BaseObject\CCObject</Filter>
+    </ClCompile>
+    <ClCompile Include="RectObject.cpp">
+      <Filter>Object\BaseObject\RectObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraObject.cpp">
+      <Filter>Object\BaseObject\CameraObject</Filter>
+    </ClCompile>
+    <ClCompile Include="ActionComponent.cpp">
+      <Filter>Components\CharacterComponents\Action</Filter>
+    </ClCompile>
+    <ClCompile Include="MoveComponent.cpp">
+      <Filter>Components\CharacterComponents\Move</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerComponent.cpp">
+      <Filter>Components\CharacterComponents\PlayerComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="StateComponent.cpp">
+      <Filter>Components\CharacterComponents\State</Filter>
+    </ClCompile>
+    <ClCompile Include="CharactorInfoComponent.cpp">
+      <Filter>Components\CharacterComponents\PlayerComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteObject.cpp">
+      <Filter>Object\BaseObject\SpriteObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CharSelectObject.cpp">
+      <Filter>Object\SeletionScene\SeleteObject</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionScene.cpp">
+      <Filter>Scene\01_SelectScene</Filter>
+    </ClCompile>
+    <ClCompile Include="SeletionComponents.cpp">
+      <Filter>Components\SelectionScene</Filter>
+    </ClCompile>
+    <ClCompile Include="IntroScene.cpp">
+      <Filter>Scene\00_Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="InGameScene.cpp">
+      <Filter>Scene\02_InGame</Filter>
+    </ClCompile>
+    <ClCompile Include="CommandComponent.cpp">
+      <Filter>Components\CharacterComponents\Command</Filter>
+    </ClCompile>
+    <ClCompile Include="CreditScene.cpp">
+      <Filter>Scene\PrevScence\03_Credit</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>Object\Particle\00_Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleComponet.cpp">
+      <Filter>Components\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleManager.cpp">
+      <Filter>Object\Particle</Filter>
+    </ClCompile>
+    <ClCompile Include="TestAnimationObject.cpp">
+      <Filter>Object\TEST</Filter>
+    </ClCompile>
+    <ClCompile Include="TestAnimatorScene.cpp">
+      <Filter>Scene\TEST</Filter>
+    </ClCompile>
+    <ClCompile Include="ComboListScene.cpp">
+      <Filter>Scene\PrevScence\04_ComboList</Filter>
+    </ClCompile>
+    <ClCompile Include="TestHumanCtrl.cpp">
+      <Filter>Components\CharacterComponents\PlayerComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="UIObject.cpp">
+      <Filter>Object\BaseObject\UIObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Object\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="InGameUIManager.cpp">
+      <Filter>Manager\InGameUIManager</Filter>
+    </ClCompile>
+    <ClCompile Include="HitDetect.cpp">
+      <Filter>Components\CharacterComponents\HitDetect</Filter>
+    </ClCompile>
+    <ClCompile Include="BeatBurstScene.cpp">
+      <Filter>Scene\05_BeatBurst</Filter>
+    </ClCompile>
+    <ClCompile Include="BeatBurstComponent.cpp">
+      <Filter>Components\BeatBurstScene</Filter>
+    </ClCompile>
+    <ClCompile Include="BeatCommandQueue.cpp">
+      <Filter>Components\BeatBurstScene</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Manager\GameManager</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimEventComponent.cpp">
+      <Filter>Components\CharacterComponents\AnimEvent</Filter>
+    </ClCompile>
+    <ClCompile Include="EventSystem.cpp">
+      <Filter>Components\EventSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="SpecialPanel.cpp">
+      <Filter>Components\SpecialPanel</Filter>
+    </ClCompile>
+    <ClCompile Include="EndingScene.cpp">
+      <Filter>Scene\07_Ending</Filter>
+    </ClCompile>
+    <ClCompile Include="CharaterDebug.cpp">
+      <Filter>Components\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="IntroCtrl.cpp">
+      <Filter>Components\Intro</Filter>
+    </ClCompile>
+    <ClCompile Include="CharacterCtrl.cpp">
+      <Filter>00_WinMain</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>Manager\ObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameProcess.h">
+      <Filter>00_GameProcess</Filter>
+    </ClInclude>
+    <ClInclude Include="TESTHuman.h">
+      <Filter>Object\TEST</Filter>
+    </ClInclude>
+    <ClInclude Include="TestCamera.h">
+      <Filter>Object\TEST</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Manager\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GamePCH.h">
+      <Filter>GamePCH</Filter>
+    </ClInclude>
+    <ClInclude Include="testPlayer.h">
+      <Filter>Object\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="TestScene2.h">
+      <Filter>Scene\TEST</Filter>
+    </ClInclude>
+    <ClInclude Include="TestScene.h">
+      <Filter>Scene\TEST</Filter>
+    </ClInclude>
+    <ClInclude Include="TestScene_SSS.h">
+      <Filter>Scene\TEST</Filter>
+    </ClInclude>
+    <ClInclude Include="CWScene.h">
+      <Filter>Scene\TEST</Filter>
+    </ClInclude>
+    <ClInclude Include="IScene.h">
+      <Filter>Scene\BaseScene</Filter>
+    </ClInclude>
+    <ClInclude Include="OBBObject.h">
+      <Filter>Object\BaseObject\OBBObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CircleObject.h">
+      <Filter>Object\BaseObject\CCObject</Filter>
+    </ClInclude>
+    <ClInclude Include="RectObject.h">
+      <Filter>Object\BaseObject\RectObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraObject.h">
+      <Filter>Object\BaseObject\CameraObject</Filter>
+    </ClInclude>
+    <ClInclude Include="ActionComponent.h">
+      <Filter>Components\CharacterComponents\Action</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveComponent.h">
+      <Filter>Components\CharacterComponents\Move</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerComponent.h">
+      <Filter>Components\CharacterComponents\PlayerComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="StateComponent.h">
+      <Filter>Components\CharacterComponents\State</Filter>
+    </ClInclude>
+    <ClInclude Include="CharactorInfoComponent.h">
+      <Filter>Components\CharacterComponents\PlayerComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteObject.h">
+      <Filter>Object\BaseObject\SpriteObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CharSelectObject.h">
+      <Filter>Object\SeletionScene\SeleteObject</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectionScene.h">
+      <Filter>Scene\01_SelectScene</Filter>
+    </ClInclude>
+    <ClInclude Include="SeletionComponents.h">
+      <Filter>Components\SelectionScene</Filter>
+    </ClInclude>
+    <ClInclude Include="IntroScene.h">
+      <Filter>Scene\00_Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="InGameScene.h">
+      <Filter>Scene\02_InGame</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandComponent.h">
+      <Filter>Components\CharacterComponents\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="CommandList.h">
+      <Filter>Components\CharacterComponents\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="CreditScene.h">
+      <Filter>Scene\PrevScence\03_Credit</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>Object\Particle\00_Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleComponet.h">
+      <Filter>Components\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleManager.h">
+      <Filter>Object\Particle</Filter>
+    </ClInclude>
+    <ClInclude Include="TestAnimationObject.h">
+      <Filter>Object\TEST</Filter>
+    </ClInclude>
+    <ClInclude Include="TestAnimatorScene.h">
+      <Filter>Scene\TEST</Filter>
+    </ClInclude>
+    <ClInclude Include="ComboListScene.h">
+      <Filter>Scene\PrevScence\04_ComboList</Filter>
+    </ClInclude>
+    <ClInclude Include="TestHumanCtrl.h">
+      <Filter>Components\CharacterComponents\PlayerComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="UIObject.h">
+      <Filter>Object\BaseObject\UIObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>Object\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="InGameUIManager.h">
+      <Filter>Manager\InGameUIManager</Filter>
+    </ClInclude>
+    <ClInclude Include="HitDetect.h">
+      <Filter>Components\CharacterComponents\HitDetect</Filter>
+    </ClInclude>
+    <ClInclude Include="BeatBurstScene.h">
+      <Filter>Scene\05_BeatBurst</Filter>
+    </ClInclude>
+    <ClInclude Include="BeatBurstComponent.h">
+      <Filter>Components\BeatBurstScene</Filter>
+    </ClInclude>
+    <ClInclude Include="BeatCommandQueue.h">
+      <Filter>Components\BeatBurstScene</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Manager\GameManager</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimEventComponent.h">
+      <Filter>Components\CharacterComponents\AnimEvent</Filter>
+    </ClInclude>
+    <ClInclude Include="EventSystem.h">
+      <Filter>Components\EventSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="SpecialPanel.h">
+      <Filter>Components\SpecialPanel</Filter>
+    </ClInclude>
+    <ClInclude Include="EndingScene.h">
+      <Filter>Scene\07_Ending</Filter>
+    </ClInclude>
+    <ClInclude Include="CharaterDebug.h">
+      <Filter>Components\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="IntroCtrl.h">
+      <Filter>Components\Intro</Filter>
+    </ClInclude>
+    <ClInclude Include="CharacterCtrl.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CopyFileToFolders Include="SpriteMetas.json">
+      <Filter>99_Data</Filter>
+    </CopyFileToFolders>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,48 @@
+{
+
+  "ImageFilePath": "Data/Image/0033_Ef_Hit.png",
+  "MetaFilePath": "Data/Json/0033_Ef_Hit.json",
+  "SheetName": "0033_Ef_Hit",
+  "SpriteSheet": {
+    "DRUM": {
+      "CenterPosX": 302,
+      "CenterPosY": 272,
+      "Height": 429,
+      "KeyColor": 0,
+      "OriX": -5,
+      "OriY": 58,
+      "SpriteName": "DRUM",
+      "Width": 615
+    },
+    "ELEC": {
+      "CenterPosX": 1572,
+      "CenterPosY": 267,
+      "Height": 439,
+      "KeyColor": 0,
+      "OriX": 1263,
+      "OriY": 48,
+      "SpriteName": "ELEC",
+      "Width": 619
+    },
+    "SYN": {
+      "CenterPosX": 308,
+      "CenterPosY": 853,
+      "Height": 449,
+      "KeyColor": 0,
+      "OriX": -5,
+      "OriY": 629,
+      "SpriteName": "SYN",
+      "Width": 627
+    },
+    "TAM": {
+      "CenterPosX": 1571,
+      "CenterPosY": 865,
+      "Height": 425,
+      "KeyColor": 0,
+      "OriX": 1266,
+      "OriY": 653,
+      "SpriteName": "TAM",
+      "Width": 610
+    }
+  }
+}

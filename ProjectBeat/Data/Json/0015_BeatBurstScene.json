@@ -1,0 +1,128 @@
+{
+
+  "ImageFilePath": "Data\\Image\\0015_BeatBurstScene.png",
+  "MetaFilePath": "Data\\Json\\0015_BeatBurstScene.json",
+  "SheetName": "0015_BeatBurstScene",
+  "SpriteSheet": {
+    "COMBOBOX": {
+      "CenterPosX": 557,
+      "CenterPosY": 3900,
+      "Height": 124,
+      "KeyColor": 0,
+      "OriX": 277,
+      "OriY": 3838,
+      "SpriteName": "COMBOBOX",
+      "Width": 561
+    },
+    "DRUMICON": {
+      "CenterPosX": 1990,
+      "CenterPosY": 1556,
+      "Height": 241,
+      "KeyColor": 0,
+      "OriX": 1870,
+      "OriY": 1436,
+      "SpriteName": "DRUMICON",
+      "Width": 241
+    },
+    "GUITARICON": {
+      "CenterPosX": 912,
+      "CenterPosY": 1558,
+      "Height": 242,
+      "KeyColor": 0,
+      "OriX": 799,
+      "OriY": 1437,
+      "SpriteName": "GUITARICON",
+      "Width": 227
+    },
+    "INPUTTEXT": {
+      "CenterPosX": 577,
+      "CenterPosY": 3694,
+      "Height": 69,
+      "KeyColor": 0,
+      "OriX": 450,
+      "OriY": 3660,
+      "SpriteName": "INPUTTEXT",
+      "Width": 255
+    },
+    "INPUTTEXT2": {
+      "CenterPosX": 1590,
+      "CenterPosY": 3671,
+      "Height": 56,
+      "KeyColor": 0,
+      "OriX": 1381,
+      "OriY": 3643,
+      "SpriteName": "INPUTTEXT2",
+      "Width": 418
+    },
+    "K": {
+      "CenterPosX": 653,
+      "CenterPosY": 3471,
+      "Height": 85,
+      "KeyColor": 0,
+      "OriX": 612,
+      "OriY": 3429,
+      "SpriteName": "K",
+      "Width": 83
+    },
+    "P": {
+      "CenterPosX": 540,
+      "CenterPosY": 3466,
+      "Height": 83,
+      "KeyColor": 0,
+      "OriX": 499,
+      "OriY": 3425,
+      "SpriteName": "P",
+      "Width": 83
+    },
+    "SPECIALCOMMAND": {
+      "CenterPosX": 1784,
+      "CenterPosY": 1963,
+      "Height": 246,
+      "KeyColor": 0,
+      "OriX": 1537,
+      "OriY": 1840,
+      "SpriteName": "SPECIALCOMMAND",
+      "Width": 494
+    },
+    "SPECIALCOMMAND2": {
+      "CenterPosX": 1790,
+      "CenterPosY": 2289,
+      "Height": 220,
+      "KeyColor": 0,
+      "OriX": 1546,
+      "OriY": 2179,
+      "SpriteName": "SPECIALCOMMAND2",
+      "Width": 489
+    },
+    "SYNTHESIZERICON": {
+      "CenterPosX": 638,
+      "CenterPosY": 1557,
+      "Height": 243,
+      "KeyColor": 0,
+      "OriX": 518,
+      "OriY": 1436,
+      "SpriteName": "SYNTHESIZERICON",
+      "Width": 240
+    },
+    "TAMBOURINEICON": {
+      "CenterPosX": 366,
+      "CenterPosY": 1554,
+      "Height": 243,
+      "KeyColor": 0,
+      "OriX": 246,
+      "OriY": 1433,
+      "SpriteName": "TAMBOURINEICON",
+      "Width": 241
+    },
+    "TIMEBOX": {
+      "CenterPosX": 452,
+      "CenterPosY": 2325,
+      "Height": 157,
+      "KeyColor": 0,
+      "OriX": 331,
+      "OriY": 2247,
+      "SpriteName": "TIMEBOX",
+      "Width": 242
+    }
+  }
+}

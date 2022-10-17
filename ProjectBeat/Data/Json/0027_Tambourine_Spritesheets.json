@@ -1,0 +1,198 @@
+{
+
+  "ImageFilePath": "Data/Image/0027_Tambourine_Spritesheets.png",
+  "MetaFilePath": "Data/Json/0027_Tambourine_Spritesheets.json",
+  "SheetName": "0027_Tambourine_Spritesheets",
+  "SpriteSheet": {
+    "Tambourine_Body Sprite1": {
+      "CenterPosX": 246,
+      "CenterPosY": 2128,
+      "Height": 615,
+      "KeyColor": 0,
+      "OriX": 56,
+      "OriY": 1477,
+      "SpriteName": "Tambourine_Body Sprite1",
+      "Width": 359
+    },
+    "Tambourine_Head Sprite1": {
+      "CenterPosX": 882,
+      "CenterPosY": 2107,
+      "Height": 709,
+      "KeyColor": 0,
+      "OriX": 424,
+      "OriY": 1467,
+      "SpriteName": "Tambourine_Head Sprite1",
+      "Width": 765
+    },
+    "Tambourine_Head Sprite2": {
+      "CenterPosX": 456,
+      "CenterPosY": 2818,
+      "Height": 710,
+      "KeyColor": 0,
+      "OriX": -3,
+      "OriY": 2180,
+      "SpriteName": "Tambourine_Head Sprite2",
+      "Width": 769
+    },
+    "Tambourine_Head Sprite3": {
+      "CenterPosX": 1226,
+      "CenterPosY": 2813,
+      "Height": 712,
+      "KeyColor": 0,
+      "OriX": 768,
+      "OriY": 2179,
+      "SpriteName": "Tambourine_Head Sprite3",
+      "Width": 767
+    },
+    "Tambourine_LeftFoot Sprite1": {
+      "CenterPosX": 1052,
+      "CenterPosY": 515,
+      "Height": 297,
+      "KeyColor": 0,
+      "OriX": 957,
+      "OriY": 366,
+      "SpriteName": "Tambourine_LeftFoot Sprite1",
+      "Width": 386
+    },
+    "Tambourine_LeftHand Sprite1": {
+      "CenterPosX": 760,
+      "CenterPosY": 929,
+      "Height": 577,
+      "KeyColor": 0,
+      "OriX": 496,
+      "OriY": 884,
+      "SpriteName": "Tambourine_LeftHand Sprite1",
+      "Width": 502
+    },
+    "Tambourine_LeftLowerArm Sprite1": {
+      "CenterPosX": 540,
+      "CenterPosY": 41,
+      "Height": 234,
+      "KeyColor": 0,
+      "OriX": 491,
+      "OriY": 18,
+      "SpriteName": "Tambourine_LeftLowerArm Sprite1",
+      "Width": 87
+    },
+    "Tambourine_LeftLowerLeg Sprite1": {
+      "CenterPosX": 123,
+      "CenterPosY": 334,
+      "Height": 292,
+      "KeyColor": 0,
+      "OriX": 38,
+      "OriY": 298,
+      "SpriteName": "Tambourine_LeftLowerLeg Sprite1",
+      "Width": 175
+    },
+    "Tambourine_LeftTiptoe Sprite1": {
+      "CenterPosX": 927,
+      "CenterPosY": 134,
+      "Height": 269,
+      "KeyColor": 0,
+      "OriX": 845,
+      "OriY": 13,
+      "SpriteName": "Tambourine_LeftTiptoe Sprite1",
+      "Width": 218
+    },
+    "Tambourine_LeftUpperArm Sprite1": {
+      "CenterPosX": 312,
+      "CenterPosY": 360,
+      "Height": 292,
+      "KeyColor": 0,
+      "OriX": 259,
+      "OriY": 328,
+      "SpriteName": "Tambourine_LeftUpperArm Sprite1",
+      "Width": 108
+    },
+    "Tambourine_LeftUpperLeg Sprite1": {
+      "CenterPosX": 1393,
+      "CenterPosY": 384,
+      "Height": 582,
+      "KeyColor": 0,
+      "OriX": 1341,
+      "OriY": 295,
+      "SpriteName": "Tambourine_LeftUpperLeg Sprite1",
+      "Width": 149
+    },
+    "Tambourine_RightFoot Sprite1": {
+      "CenterPosX": 668,
+      "CenterPosY": 514,
+      "Height": 297,
+      "KeyColor": 0,
+      "OriX": 575,
+      "OriY": 366,
+      "SpriteName": "Tambourine_RightFoot Sprite1",
+      "Width": 383
+    },
+    "Tambourine_RightHand Sprite1": {
+      "CenterPosX": 217,
+      "CenterPosY": 914,
+      "Height": 572,
+      "KeyColor": 0,
+      "OriX": -2,
+      "OriY": 876,
+      "SpriteName": "Tambourine_RightHand Sprite1",
+      "Width": 492
+    },
+    "Tambourine_RightLowerArm Sprite1": {
+      "CenterPosX": 430,
+      "CenterPosY": 39,
+      "Height": 236,
+      "KeyColor": 0,
+      "OriX": 380,
+      "OriY": 16,
+      "SpriteName": "Tambourine_RightLowerArm Sprite1",
+      "Width": 91
+    },
+    "Tambourine_RightLowerLeg Sprite1": {
+      "CenterPosX": 1200,
+      "CenterPosY": 40,
+      "Height": 293,
+      "KeyColor": 0,
+      "OriX": 1110,
+      "OriY": 3,
+      "SpriteName": "Tambourine_RightLowerLeg Sprite1",
+      "Width": 177
+    },
+    "Tambourine_RightTiptoe Sprite1": {
+      "CenterPosX": 671,
+      "CenterPosY": 134,
+      "Height": 268,
+      "KeyColor": 0,
+      "OriX": 595,
+      "OriY": 13,
+      "SpriteName": "Tambourine_RightTiptoe Sprite1",
+      "Width": 219
+    },
+    "Tambourine_RightUpperArm Sprite1": {
+      "CenterPosX": 480,
+      "CenterPosY": 363,
+      "Height": 290,
+      "KeyColor": 0,
+      "OriX": 392,
+      "OriY": 332,
+      "SpriteName": "Tambourine_RightUpperArm Sprite1",
+      "Width": 178
+    },
+    "Tambourine_RightUpperLeg Sprite1": {
+      "CenterPosX": 1440,
+      "CenterPosY": 376,
+      "Height": 577,
+      "KeyColor": 0,
+      "OriX": 1342,
+      "OriY": 298,
+      "SpriteName": "Tambourine_RightUpperLeg Sprite1",
+      "Width": 150
+    },
+    "Tambourine_Waist Sprite1": {
+      "CenterPosX": 187,
+      "CenterPosY": 173,
+      "Height": 230,
+      "KeyColor": 0,
+      "OriX": 3,
+      "OriY": -1,
+      "SpriteName": "Tambourine_Waist Sprite1",
+      "Width": 353
+    }
+  }
+}

@@ -1,0 +1,288 @@
+{
+    "ImageFilePath": "Data/Image/0011_UI.png",
+    "MetaFilePath": "Image\\Ball.json",
+    "SheetName": "0011_UI",
+    "SpriteSheet": {
+        "ComboList1": {
+            "CenterPosX": 327,
+            "CenterPosY": 886,
+            "Height": 58,
+            "KeyColor": 0,
+            "OriX": 176,
+            "OriY": 857,
+            "SpriteName": "ComboList1",
+            "Width": 303
+        },
+        "ComboList2": {
+            "CenterPosX": 327,
+            "CenterPosY": 962,
+            "Height": 58,
+            "KeyColor": 0,
+            "OriX": 178,
+            "OriY": 933,
+            "SpriteName": "ComboList2",
+            "Width": 299
+        },
+        "ComboList3": {
+            "CenterPosX": 327,
+            "CenterPosY": 1038,
+            "Height": 61,
+            "KeyColor": 0,
+            "OriX": 178,
+            "OriY": 1008,
+            "SpriteName": "ComboList3",
+            "Width": 299
+        },
+        "ComboList4": {
+            "CenterPosX": 327,
+            "CenterPosY": 1115,
+            "Height": 60,
+            "KeyColor": 0,
+            "OriX": 176,
+            "OriY": 1085,
+            "SpriteName": "ComboList4",
+            "Width": 302
+        },
+        "HP_P1_Back": {
+            "CenterPosX": 661,
+            "CenterPosY": 153,
+            "Height": 95,
+            "KeyColor": 0,
+            "OriX": 305,
+            "OriY": 107,
+            "SpriteName": "HP_P1_Back",
+            "Width": 713
+        },
+        "HP_P1_Bar": {
+            "CenterPosX": 661,
+            "CenterPosY": 424,
+            "Height": 80,
+            "KeyColor": 0,
+            "OriX": 313,
+            "OriY": 384,
+            "SpriteName": "HP_P1_Bar",
+            "Width": 696
+        },
+        "HP_P2_Back": {
+            "CenterPosX": 1495,
+            "CenterPosY": 155,
+            "Height": 95,
+            "KeyColor": 0,
+            "OriX": 1140,
+            "OriY": 107,
+            "SpriteName": "HP_P2_Back",
+            "Width": 713
+        },
+        "HP_P2_Bar": {
+            "CenterPosX": 1495,
+            "CenterPosY": 423,
+            "Height": 81,
+            "KeyColor": 0,
+            "OriX": 1148,
+            "OriY": 383,
+            "SpriteName": "HP_P2_Bar",
+            "Width": 695
+        },
+        "Icon_P1_Drum": {
+            "CenterPosX": 214,
+            "CenterPosY": 170,
+            "Height": 150,
+            "KeyColor": 0,
+            "OriX": 142,
+            "OriY": 95,
+            "SpriteName": "Icon_P1_Drum",
+            "Width": 145
+        },
+        "Icon_P1_Guitar": {
+            "CenterPosX": 214,
+            "CenterPosY": 337,
+            "Height": 149,
+            "KeyColor": 0,
+            "OriX": 142,
+            "OriY": 263,
+            "SpriteName": "Icon_P1_Guitar",
+            "Width": 145
+        },
+        "Icon_P1_Synth": {
+            "CenterPosX": 214,
+            "CenterPosY": 505,
+            "Height": 150,
+            "KeyColor": 0,
+            "OriX": 141,
+            "OriY": 430,
+            "SpriteName": "Icon_P1_Synth",
+            "Width": 146
+        },
+        "Icon_P1_Tambourine": {
+            "CenterPosX": 214,
+            "CenterPosY": 673,
+            "Height": 150,
+            "KeyColor": 0,
+            "OriX": 142,
+            "OriY": 598,
+            "SpriteName": "Icon_P1_Tambourine",
+            "Width": 145
+        },
+        "Icon_P2_Drum": {
+            "CenterPosX": 1945,
+            "CenterPosY": 170,
+            "Height": 151,
+            "KeyColor": 0,
+            "OriX": 1873,
+            "OriY": 95,
+            "SpriteName": "Icon_P2_Drum",
+            "Width": 145
+        },
+        "Icon_P2_Guitar": {
+            "CenterPosX": 1945,
+            "CenterPosY": 338,
+            "Height": 149,
+            "KeyColor": 0,
+            "OriX": 1873,
+            "OriY": 264,
+            "SpriteName": "Icon_P2_Guitar",
+            "Width": 145
+        },
+        "Icon_P2_Synth": {
+            "CenterPosX": 1944,
+            "CenterPosY": 506,
+            "Height": 151,
+            "KeyColor": 0,
+            "OriX": 1872,
+            "OriY": 431,
+            "SpriteName": "Icon_P2_Synth",
+            "Width": 145
+        },
+        "Icon_P2_Tambourine": {
+            "CenterPosX": 1945,
+            "CenterPosY": 676,
+            "Height": 149,
+            "KeyColor": 0,
+            "OriX": 1873,
+            "OriY": 602,
+            "SpriteName": "Icon_P2_Tambourine",
+            "Width": 144
+        },
+        "Kick": {
+            "CenterPosX": 402,
+            "CenterPosY": 1389,
+            "Height": 60,
+            "KeyColor": 0,
+            "OriX": 372,
+            "OriY": 1359,
+            "SpriteName": "Kick",
+            "Width": 60
+        },
+        "Punch": {
+            "CenterPosX": 275,
+            "CenterPosY": 1388,
+            "Height": 62,
+            "KeyColor": 0,
+            "OriX": 244,
+            "OriY": 1357,
+            "SpriteName": "Punch",
+            "Width": 63
+        },
+        "Score_Count_0": {
+            "CenterPosX": 1106,
+            "CenterPosY": 1062,
+            "Height": 48,
+            "KeyColor": 0,
+            "OriX": 1030,
+            "OriY": 1038,
+            "SpriteName": "Score_Count_0",
+            "Width": 152
+        },
+        "Score_Count_1": {
+            "CenterPosX": 1106,
+            "CenterPosY": 1149,
+            "Height": 48,
+            "KeyColor": 0,
+            "OriX": 1030,
+            "OriY": 1125,
+            "SpriteName": "Score_Count_1",
+            "Width": 152
+        },
+        "Score_Count_2": {
+            "CenterPosX": 1106,
+            "CenterPosY": 1234,
+            "Height": 48,
+            "KeyColor": 0,
+            "OriX": 1030,
+            "OriY": 1210,
+            "SpriteName": "Score_Count_2",
+            "Width": 152
+        },
+        "Score_Count_3": {
+            "CenterPosX": 1106,
+            "CenterPosY": 1321,
+            "Height": 48,
+            "KeyColor": 0,
+            "OriX": 1030,
+            "OriY": 1297,
+            "SpriteName": "Score_Count_3",
+            "Width": 152
+        },
+        "Tempo_P1_Off": {
+            "CenterPosX": 129,
+            "CenterPosY": 2073,
+            "Height": 99,
+            "KeyColor": 0,
+            "OriX": 98,
+            "OriY": 2024,
+            "SpriteName": "Tempo_P1_Off",
+            "Width": 62
+        },
+        "Tempo_P1_On": {
+            "CenterPosX": 131,
+            "CenterPosY": 2214,
+            "Height": 97,
+            "KeyColor": 0,
+            "OriX": 99,
+            "OriY": 2166,
+            "SpriteName": "Tempo_P1_On",
+            "Width": 65
+        },
+        "Tempo_P2_Off": {
+            "CenterPosX": 791,
+            "CenterPosY": 2076,
+            "Height": 96,
+            "KeyColor": 0,
+            "OriX": 759,
+            "OriY": 2028,
+            "SpriteName": "Tempo_P2_Off",
+            "Width": 65
+        },
+        "Tempo_P2_On": {
+            "CenterPosX": 791,
+            "CenterPosY": 2210,
+            "Height": 97,
+            "KeyColor": 0,
+            "OriX": 759,
+            "OriY": 2162,
+            "SpriteName": "Tempo_P2_On",
+            "Width": 65
+        },
+        "TestIcon": {
+          "CenterPosX": 616,
+          "CenterPosY": 1676,
+          "Height": 93,
+          "KeyColor": 0,
+          "OriX": 586,
+          "OriY": 1630,
+          "SpriteName": "TestIcon",
+          "Width": 60
+        },
+        "TestIcon2": {
+            "CenterPosX": 618,
+            "CenterPosY": 1806,
+            "Height": 93,
+            "KeyColor": 0,
+            "OriX": 588,
+            "OriY": 1760,
+            "SpriteName": "TestIcon2",
+            "Width": 60
+        }
+
+    }
+}
